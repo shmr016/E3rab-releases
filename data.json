@@ -1,0 +1,3170 @@
+{
+  "lastUpdated": "2026-09-25T04:06:53.181Z",
+  "categories": [
+    "Action",
+    "Adventure",
+    "Horror",
+    "RPG",
+    "Strategy",
+    "Racing",
+    "Sports",
+    "Simulation",
+    "Puzzle",
+    "Platformer",
+    "Indie"
+  ],
+  "games": [
+    {
+      "id": "amnesia-the-bunker",
+      "title": "Amnesia: The Bunker",
+      "category": "Horror",
+      "rating": 4,
+      "description": "Amnesia: The Bunker is a first-person horror game set in a WW1 bunker. A relentless, AI-driven monster stalks you. Survival depends on finding tools, crafting items, and keeping the lights on.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1944430/header.jpg?t=1773329066",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1944430/header.jpg?t=1773329066",
+      "executable": "",
+      "translations": [
+        {
+          "id": "amnesia-the-bunker-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Amnesia: The Bunker.",
+          "releaseDate": "2026-04-17",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "34.0 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Amnesia_The_Bunker/ar/v1/Amnesia_etrdream.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "رعب من منظور الشخص الأول داخل مخبأ من الحرب العالمية الأولى، يطاردك فيه وحش لا يهدأ. نجاتك تعتمد على جمع الأدوات، وصناعة ما تحتاجه، وإبقاء الأضواء مشتعلة.",
+      "releaseYear": 2023
+    },
+    {
+      "id": "bad-north",
+      "title": "Bad North: Jotunn Edition",
+      "category": "Strategy",
+      "rating": 4,
+      "description": "Bad North is a charming but brutal real-time tactics roguelite. Defend your idyllic island kingdom against a horde of Viking invaders, as you lead the desperate exodus of your people. Command your loyal subjects to take full tactical advantage of the unique shape of each island.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/688420/header.jpg?t=1766091313",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/688420/header.jpg?t=1766091313",
+      "executable": "",
+      "translations": [
+        {
+          "id": "bad-north-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Bad North: Jotunn Edition.",
+          "releaseDate": "2026-04-17",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "41.2 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Bad_north/ar/v1/BadNorth_Data.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "تكتيك فوري ساحر وقاسٍ في آنٍ واحد: دافع عن مملكتك الجزرية الهادئة ضد جحافل الفايكنغ، وقُد شعبك في رحلة نزوح يائسة مستغلًا شكل كل جزيرة لصالحك.",
+      "releaseYear": 2018
+    },
+    {
+      "id": "clair-obscur-expedition-33",
+      "title": "Clair Obscur: Expedition 33",
+      "category": "RPG",
+      "rating": 4,
+      "description": "Lead the members of Expedition 33 on their quest to destroy the Paintress so that she can never paint death again. Explore a world of wonders inspired by Belle Époque France and battle unique enemies in this turn-based RPG with real-time mechanics.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/be3305b02d4db0dffa3458537118423bf2792d7e/header.jpg?t=1773676780",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/be3305b02d4db0dffa3458537118423bf2792d7e/header.jpg?t=1773676780",
+      "executable": "Sandfall-Win64-Shipping.exe",
+      "translations": [
+        {
+          "id": "clair-obscur-expedition-33-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Clair Obscur: Expedition 33.",
+          "releaseDate": "2026-04-17",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "9.2 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Clair_obscur_Expedition33/ar/v1/Sandfall.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "قُد أعضاء البعثة 33 في مهمتهم لتدمير الرسّامة كي لا ترسم الموت مجددًا. استكشف عالمًا مستوحى من فرنسا في العصر الجميل وخُض قتالًا بالأدوار بآليات فورية.",
+      "releaseYear": 2025
+    },
+    {
+      "id": "codevein",
+      "title": "CODE VEIN",
+      "category": "RPG",
+      "rating": 4,
+      "description": "In the face of certain death, we rise. Team up and embark on a journey to the ends of hell to unlock your past and escape your living nightmare in CODE VEIN.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/678960/header.jpg?t=1766015412",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/678960/header.jpg?t=1766015412",
+      "executable": "",
+      "translations": [
+        {
+          "id": "codevein-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for CODE VEIN.",
+          "releaseDate": "2026-04-17",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "2.1 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/CodeVein/ar/v1/CodeVein.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "في مواجهة الموت المحتوم، ننهض. كوّن فريقك وانطلق في رحلة إلى أعماق الجحيم لتكشف ماضيك وتهرب من كابوسك الحيّ في CODE VEIN.",
+      "releaseYear": 2019
+    },
+    {
+      "id": "code-vein-2",
+      "title": "CODE VEIN II",
+      "category": "Action",
+      "rating": 4,
+      "description": "An epic adventure awaits, where you and your chosen partners explore a post-apocalyptic world, face fierce battles against powerful enemies, and uncover an epic story that transcends time.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2362060/955e8f3fce6d832c286ac8013657ed6fc51f1f85/header.jpg?t=1770242240",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2362060/955e8f3fce6d832c286ac8013657ed6fc51f1f85/header.jpg?t=1770242240",
+      "executable": "",
+      "translations": [
+        {
+          "id": "code-vein-2-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for CODE VEIN II.",
+          "releaseDate": "2026-04-17",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "2.4 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/code_vein_2/ar/v1/CodeVein2.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "مغامرة ملحمية تنتظرك: استكشف مع رفاقك عالمًا ما بعد نهاية العالم، وخُض معارك شرسة ضد أعداء أقوياء، واكشف قصة تتجاوز حدود الزمن.",
+      "releaseYear": 2026
+    },
+    {
+      "id": "cuphead",
+      "title": "Cuphead",
+      "category": "Platformer",
+      "rating": 4,
+      "description": "Cuphead is a classic run and gun action game heavily focused on boss battles. Inspired by cartoons of the 1930s, the visuals and audio are painstakingly created with the same techniques of the era, i.e. traditional hand drawn cel animation, watercolor backgrounds, and original jazz recordings.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268910/header.jpg?t=1709068852",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268910/header.jpg?t=1709068852",
+      "executable": "",
+      "translations": [
+        {
+          "id": "cuphead-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Cuphead.",
+          "releaseDate": "2026-04-17",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "85.6 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Cuphead/ar/v1/Cuphead_Data.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "أكشن كلاسيكي بأسلوب الركض والتصويب يركّز على معارك الزعماء. رسوم وموسيقى مستوحاة من كرتون الثلاثينيات، مصنوعة يدويًا بتقنيات تلك الحقبة مع تسجيلات جاز أصلية.",
+      "releaseYear": 2017
+    },
+    {
+      "id": "half-life",
+      "title": "Half-Life",
+      "category": "Action",
+      "rating": 4,
+      "description": "Named Game of the Year by over 50 publications, Valve's debut title blends action and adventure with award-winning technology to create a frighteningly realistic world where players must think to survive. Also includes an exciting multiplayer mode that allows you to play against friends and enemies around the world.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/header.jpg?t=1745368462",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/header.jpg?t=1745368462",
+      "executable": "",
+      "translations": [
+        {
+          "id": "half-life-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Half-Life.",
+          "releaseDate": "2026-04-17",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "66.3 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Half_Life/ar/v1/zwi2l3.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "اللعبة التي غيّرت ألعاب التصويب: مزيج من الأكشن والمغامرة في عالم واقعي مرعب يجبرك على التفكير لتنجو. أول أعمال Valve وحائزة على لقب لعبة العام من أكثر من 50 جهة.",
+      "releaseYear": 1998
+    },
+    {
+      "id": "hollow-knight",
+      "title": "Hollow Knight",
+      "category": "Platformer",
+      "rating": 4,
+      "description": "Forge your own path in Hollow Knight! An epic action adventure through a vast ruined kingdom of insects and heroes. Explore twisting caverns, battle tainted creatures and befriend bizarre bugs, all in a classic, hand-drawn 2D style.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/3c3489495136b26b34f8a9543c7f5645b99d388c/header.jpg?t=1776125684",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/3c3489495136b26b34f8a9543c7f5645b99d388c/header.jpg?t=1776125684",
+      "executable": "hollow_knight.exe",
+      "translations": [
+        {
+          "id": "hollow-knight-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Hollow Knight.",
+          "releaseDate": "2026-04-16",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "27.4 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Hollow_Knight/ar/v1/Hollow_Knight.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "اشقّ طريقك في Hollow Knight! مغامرة أكشن ملحمية عبر مملكة حشرات مهجورة شاسعة. استكشف كهوفًا متشعبة، وقاتل مخلوقات فاسدة، وصادق حشرات غريبة، كل ذلك برسوم يدوية ثنائية الأبعاد.",
+      "releaseYear": 2017
+    },
+    {
+      "id": "lethal-company",
+      "title": "Lethal Company",
+      "category": "Horror",
+      "rating": 4,
+      "description": "A co-op horror about scavenging at abandoned moons to sell scrap to the Company.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg?t=1775380053",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg?t=1775380053",
+      "executable": "",
+      "translations": [
+        {
+          "id": "lethal-company-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Lethal Company.",
+          "releaseDate": "2026-04-17",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "3.5 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Lethal_Company/ar/v1/LC_AR.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "رعب تعاوني: انزل إلى أقمار مهجورة لجمع الخردة وبيعها للشركة… إن نجوت وعدت بها.",
+      "releaseYear": 2023
+    },
+    {
+      "id": "nier-replicant",
+      "title": "NieR Replicant ver.1.22474487139...",
+      "category": "RPG",
+      "rating": 4,
+      "description": "The upgraded prequel of NieR:Automata. A kind young man sets out with Grimoire Weiss, a strange talking book, to search for the \"Sealed verses\" in order to save his sister Yonah, who fell terminally ill to the Black Scrawl.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113560/header.jpg?t=1773365156",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113560/header.jpg?t=1773365156",
+      "executable": "",
+      "translations": [
+        {
+          "id": "nier-replicant-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for NieR Replicant ver.1.22474487139....",
+          "releaseDate": "2026-04-17",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "67.7 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/NieR_Replicant/ar/v1/data.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "الجزء التمهيدي المحسّن لـ NieR:Automata. شابّ طيب القلب ينطلق برفقة Grimoire Weiss، الكتاب الناطق الغريب، بحثًا عن «الآيات المختومة» لإنقاذ أخته يونا من مرض الخطّ الأسود القاتل.",
+      "releaseYear": 2021
+    },
+    {
+      "id": "ori-and-the-will-of-the-wisps",
+      "title": "Ori and the Will of the Wisps",
+      "category": "Platformer",
+      "rating": 4.8,
+      "description": "Play the critically acclaimed masterpiece. Embark on a new journey in a vast, exotic world where you’ll encounter towering enemies and challenging puzzles on your quest to unravel Ori’s destiny.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/header.jpg?t=1759530749",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/header.jpg?t=1759530749",
+      "executable": "",
+      "translations": [
+        {
+          "id": "ori-and-the-will-of-the-wisps-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Ori and the Will of the Wisps.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "69.7 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Ori_and_the_Will_of_the_Wisps/ar/v1/oriwotw_Data.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "التحفة الفنية التي أشاد بها النقاد. انطلق في رحلة جديدة عبر عالم شاسع وساحر، وواجه أعداءً هائلين وألغازًا صعبة في سعيك لكشف مصير Ori.",
+      "releaseYear": 2020
+    },
+    {
+      "id": "outlast-1",
+      "title": "Outlast",
+      "category": "Horror",
+      "rating": 4,
+      "description": "Hell is an experiment you can't survive in Outlast, a first-person survival horror game developed by veterans of some of the biggest game franchises in history. As investigative journalist Miles Upshur, explore Mount Massive Asylum and try to survive long enough to discover its terrible secret... if you dare.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238320/header.jpg?t=1666817106",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238320/header.jpg?t=1666817106",
+      "executable": "",
+      "translations": [
+        {
+          "id": "outlast-1-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Outlast.",
+          "releaseDate": "2026-04-17",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "59.8 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/outlast_1/ar/v1/OLGame.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "الجحيم تجربة لا يمكنك النجاة منها. بصفتك الصحفي الاستقصائي مايلز أبشر، استكشف مصحّة ماونت ماسيف وحاول البقاء حيًا لتكشف سرّها المروّع… إن كنت تجرؤ.",
+      "releaseYear": 2013
+    },
+    {
+      "id": "outlast-2",
+      "title": "Outlast 2",
+      "category": "Horror",
+      "rating": 4,
+      "description": "Outlast 2 introduces you to Sullivan Knoth and his followers, who left our wicked world behind to give birth to Temple Gate, a town, deep in the wilderness and hidden from civilization. Knoth and his flock are preparing for the tribulations of the end of times and you’re right in the thick of it.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414700/header.jpg?t=1618944453",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414700/header.jpg?t=1618944453",
+      "executable": "",
+      "translations": [
+        {
+          "id": "outlast-2-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Outlast 2.",
+          "releaseDate": "2026-04-17",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "4.0 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/outlast_2/ar/v1/OLGame.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "ادخل عالم سوليفان نوث وأتباعه الذين هجروا عالمنا الفاسد ليؤسسوا «تمبل غيت»، بلدة معزولة في البرية. الطائفة تستعد لنهاية الزمان، وأنت في قلب الجحيم.",
+      "releaseYear": 2017
+    },
+    {
+      "id": "peak",
+      "title": "PEAK",
+      "category": "Adventure",
+      "rating": 4,
+      "description": "PEAK is a co-op climbing game where the slightest mistake can spell your doom. Either solo or as a group of lost nature scouts, your only hope of rescue from a mysterious island is to scale the mountain at its center. Do you have what it takes to reach the PEAK?",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1775581133",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1775581133",
+      "executable": "",
+      "translations": [
+        {
+          "id": "peak-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for PEAK.",
+          "releaseDate": "2026-04-17",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "2.3 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Peak/ar/v1/Peak.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "لعبة تسلّق تعاونية يمكن لأصغر خطأ فيها أن يودي بك. وحدك أو مع فريق من الكشّافة التائهين، أملكم الوحيد في النجاة من جزيرة غامضة هو بلوغ قمة جبلها.",
+      "releaseYear": 2025
+    },
+    {
+      "id": "r-e-p-o",
+      "title": "R.E.P.O.",
+      "category": "Horror",
+      "rating": 4,
+      "description": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/1ea445e044a2d5b09cfa8291350b63ebed6e5741/header.jpg?t=1765552338",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/1ea445e044a2d5b09cfa8291350b63ebed6e5741/header.jpg?t=1765552338",
+      "executable": "",
+      "translations": [
+        {
+          "id": "r-e-p-o-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for R.E.P.O..",
+          "releaseDate": "2026-04-17",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "1.8 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/R.E.P.O/ar/v1/REPO_ETRD v3.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "رعب تعاوني عبر الإنترنت لستة لاعبين: اعثر على أغراض ثمينة تخضع لفيزياء كاملة، وتعامل معها بحذر شديد أثناء استخراجها لإرضاء رغبات صانعك.",
+      "releaseYear": 2025
+    },
+    {
+      "id": "silent-hill-2-remake",
+      "title": "SILENT HILL 2",
+      "category": "Horror",
+      "rating": 4,
+      "description": "Investigating a letter from his late wife, James returns to where they made so many memories - Silent Hill. What he finds is a ghost town, prowled by disturbing monsters and cloaked in deep fog. Confront the monsters, solve puzzles, and search for traces of your wife in this remake of SILENT HILL 2.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124490/header.jpg?t=1744248682",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124490/header.jpg?t=1744248682",
+      "executable": "",
+      "translations": [
+        {
+          "id": "silent-hill-2-remake-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for SILENT HILL 2.",
+          "releaseDate": "2026-04-17",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "5.1 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Silent_Hill_2_Remake/ar/v1/SHProto.zip",
+          "archiveFormat": "zip"
+        },
+        {
+          "id": "silent-hill-2-remake-ar-v2",
+          "name": "تعريب:افاق التعريب",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for SILENT HILL 2.",
+          "releaseDate": "2026-09-24",
+          "changelog": [
+            "Published via admin panel."
+          ],
+          "size": "24.1 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/SILENT_HILL_2/ar/v1/Arabization Horizons-Silent Hill 2 Remake.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "بعد رسالة من زوجته الراحلة، يعود جيمس إلى Silent Hill ليجد مدينة أشباح يلفّها ضباب كثيف وتجوبها وحوش مقلقة. واجه الوحوش، وحُلّ الألغاز، وابحث عن أثر زوجتك في هذه النسخة المعاد صنعها.",
+      "releaseYear": 2024
+    },
+    {
+      "id": "silent-hill-f",
+      "title": "SILENT HILL f",
+      "category": "Horror",
+      "rating": 4,
+      "description": "Hinako's hometown is engulfed in fog, driving her to fight grotesque monsters and solve eerie puzzles. Uncover the disturbing beauty hidden in terror.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947440/7e5d923ac622bd1775ebc9b5d4b5b0a24bf5ed40/header.jpg?t=1770169624",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947440/7e5d923ac622bd1775ebc9b5d4b5b0a24bf5ed40/header.jpg?t=1770169624",
+      "executable": "",
+      "translations": [
+        {
+          "id": "silent-hill-f-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for SILENT HILL f.",
+          "releaseDate": "2026-04-17",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "0.9 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Silent_Hill_f/ar/v1/SHf.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "يبتلع الضباب مسقط رأس هيناكو ليدفعها إلى مواجهة وحوش مشوّهة وحلّ ألغاز مقلقة. اكتشف الجمال المزعج المختبئ في قلب الرعب.",
+      "releaseYear": 2025
+    },
+    {
+      "id": "stellar-blade",
+      "title": "Stellar Blade",
+      "category": "Action",
+      "rating": 4,
+      "description": "Save humanity from extinction in post-apocalyptic action-adventure Stellar Blade™. Experience blistering combat and a twisting storyline as you unravel the mysteries of Earth’s downfall.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/header.jpg?t=1773886328",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/header.jpg?t=1773886328",
+      "executable": "",
+      "translations": [
+        {
+          "id": "stellar-blade-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Stellar Blade.",
+          "releaseDate": "2026-04-17",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "2.2 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Stellar_Blade/ar/v1/SB.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "أنقذ البشرية من الانقراض في مغامرة أكشن ما بعد نهاية العالم. قتال مشتعل وقصة مليئة بالتحوّلات وأنت تكشف أسرار سقوط الأرض.",
+      "releaseYear": 2025
+    },
+    {
+      "id": "the-first-berserker-khazan",
+      "title": "The First Berserker: Khazan",
+      "category": "Action",
+      "rating": 4,
+      "description": "The First Berserker: Khazan is a hardcore action role-playing game. The player will become Khazan, the great general of the Pell Los Empire, who overcame death, and sets out to reveal the incidents that led to his downfall and seek vengeance on his enemies.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680010/header.jpg?t=1765255716",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680010/header.jpg?t=1765255716",
+      "executable": "",
+      "translations": [
+        {
+          "id": "the-first-berserker-khazan-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for The First Berserker: Khazan.",
+          "releaseDate": "2026-04-17",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "3.5 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/the_first_Berserker_Khazan/ar/v1/BBQ.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "أكشن تقمّص أدوار عنيف: تقمّص خازان، القائد العظيم لإمبراطورية بيل لوس، الذي قهر الموت وانطلق ليكشف مؤامرة سقوطه وينتقم من أعدائه.",
+      "releaseYear": 2025
+    },
+    {
+      "id": "the-last-faith",
+      "title": "The Last Faith",
+      "category": "Action",
+      "rating": 4,
+      "description": "Dive into the latest evolution of The Last Faith: a dark and gothic fusion of metroidvania and soulslike. Engage in merciless and precise combat with a huge range of weapons, firearms, and custom executions. Let nothing stand in the way of your journey to salvation.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/c09375c951984d602703b4e70d948727a00e7232/header.jpg?t=1769525842",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/c09375c951984d602703b4e70d948727a00e7232/header.jpg?t=1769525842",
+      "executable": "TheLastFaith.exe",
+      "translations": [
+        {
+          "id": "the-last-faith-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for The Last Faith.",
+          "releaseDate": "2026-04-16",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "32.9 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/the_last_faith/ar/v1/thelastfaithv1.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "اندماج قوطي مظلم بين الميترويدفانيا والسولز-لايك. قتال دقيق بلا رحمة بترسانة ضخمة من الأسلحة والأسلحة النارية والإعدامات الخاصة. لا تدع شيئًا يقف في طريق خلاصك.",
+      "releaseYear": 2023
+    },
+    {
+      "id": "the-last-of-us-part-i",
+      "title": "The Last of Us Part I",
+      "category": "Action",
+      "rating": 4,
+      "description": "Discover the award-winning game that inspired the critically acclaimed television show. Guide Joel and Ellie through a post-apocalyptic America, and encounter unforgettable allies and enemies in The Last of Us™.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888930/header.jpg?t=1750959031",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888930/header.jpg?t=1750959031",
+      "executable": "",
+      "translations": [
+        {
+          "id": "the-last-of-us-part-i-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for The Last of Us Part I.",
+          "releaseDate": "2026-04-17",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "2.5 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/The_Last_of_Us_Part_I/ar/v1/toolandfilles.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "اللعبة الحائزة على الجوائز التي ألهمت المسلسل الشهير. رافق جويل وإيلي عبر أمريكا ما بعد الكارثة، وقابل حلفاء وأعداء لا يُنسون في The Last of Us.",
+      "categoryLocked": true,
+      "releaseYear": 2023
+    },
+    {
+      "id": "untitled-goose-game",
+      "title": "Untitled Goose Game",
+      "category": "Puzzle",
+      "rating": 4,
+      "description": "It's a lovely morning in the village and you are a horrible goose.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837470/header.jpg?t=1699052664",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837470/header.jpg?t=1699052664",
+      "executable": "",
+      "translations": [
+        {
+          "id": "untitled-goose-game-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Untitled Goose Game.",
+          "releaseDate": "2026-04-17",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "76.5 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Untitled_Goose_Game/ar/v1/UntitledGooseGame_Data.ZIP",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "إنه صباح جميل في القرية… وأنت وزّة مزعجة للغاية.",
+      "releaseYear": 2020
+    },
+    {
+      "id": "wuchang-fallen-feathers",
+      "title": "WUCHANG: Fallen Feathers",
+      "category": "Action",
+      "rating": 4,
+      "description": "WUCHANG: Fallen Feathers is a soulslike, action RPG set in the land of Shu during the dark and tumultuous late Ming Dynasty, plagued with warring factions and a mysterious illness spawning monstrous creatures.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277560/7dbbe47ac51463eb1627581f5c048b94ef856d5c/header.jpg?t=1770741955",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277560/7dbbe47ac51463eb1627581f5c048b94ef856d5c/header.jpg?t=1770741955",
+      "executable": "",
+      "translations": [
+        {
+          "id": "wuchang-fallen-feathers-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for WUCHANG: Fallen Feathers.",
+          "releaseDate": "2026-04-17",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "5.5 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Wuchang_Fallen_Feathers/ar/v1/Wuchang_AR_1.0.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "أكشن تقمّص أدوار بأسلوب السولز في أرض «شو» أواخر عهد أسرة مينغ المظلم، حيث تتصارع الفصائل وينتشر مرض غامض يحوّل الناس إلى مخلوقات وحشية.",
+      "releaseYear": 2025
+    },
+    {
+      "id": "haunted-room-205",
+      "title": "Haunted Room : 205",
+      "category": "Horror",
+      "rating": 4,
+      "description": "To save money, you rent an unusually cheap apartment, believing you could coexist with “them” as you always have. But you soon discover that the disturbances here run far deeper—and are far more dangerous—than anything you’ve encountered before.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694590/98b3d9fb567ecc21546594462650cc4840589157/header.jpg?t=1756979751",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694590/98b3d9fb567ecc21546594462650cc4840589157/header.jpg?t=1756979751",
+      "executable": "",
+      "translations": [
+        {
+          "id": "haunted-room-205-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Haunted Room : 205.",
+          "releaseDate": "2026-04-17",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "3.9 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Haunted_Room_205/ar/v1/projectCZW.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "لتوفير المال، تستأجر شقة رخيصة على نحو مريب ظنًا منك أنك تستطيع التعايش مع «هم» كالعادة. لكن سرعان ما تكتشف أن ما يسكن هنا أعمق وأخطر بكثير مما واجهته من قبل.",
+      "releaseYear": 2025
+    },
+    {
+      "id": "batman-arkham-knight",
+      "title": "Batman: Arkham Knight",
+      "category": "Action",
+      "rating": 4,
+      "description": "Batman™: Arkham Knight brings the award-winning Arkham trilogy from Rocksteady Studios to its epic conclusion. Developed exclusively for New-Gen platforms, Batman: Arkham Knight introduces Rocksteady's uniquely designed version of the Batmobile.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208650/header.jpg?t=1745534372",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208650/header.jpg?t=1745534372",
+      "executable": "",
+      "translations": [
+        {
+          "id": "batman-arkham-knight-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Batman: Arkham Knight.",
+          "releaseDate": "2026-04-18",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "195.6 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Batman_Arkham_Knight/ar/Batman_AA_ARABIzation_v3.5_Final_Full.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "الخاتمة الملحمية لثلاثية Arkham من Rocksteady. واجه فارس أركام واستعد لقيادة سيارة الوطواط بتصميمها الفريد عبر شوارع غوثام.",
+      "releaseYear": 2015
+    },
+    {
+      "id": "dispatch",
+      "title": "Dispatch",
+      "category": "Adventure",
+      "rating": 4,
+      "description": "Dispatch is a superhero workplace comedy where choices matter. Manage a dysfunctional team of misfit heroes and strategize who to send to emergencies around the city, all while balancing office politics, personal relationships, and your own quest to become a hero. All episodes out now!",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2592160/header.jpg?t=1775166432",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2592160/header.jpg?t=1775166432",
+      "executable": "",
+      "translations": [
+        {
+          "id": "dispatch-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Dispatch.",
+          "releaseDate": "2026-04-18",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "12.0 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Dispatch/ar/v1/Content.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "كوميديا مكان عمل عن الأبطال الخارقين حيث لخياراتك وزنها. أدر فريقًا مختلًّا من الأبطال المنبوذين، وقرر من ترسل إلى كل طارئ، وسط سياسات المكتب والعلاقات الشخصية وسعيك لتصبح بطلًا.",
+      "releaseYear": 2025
+    },
+    {
+      "id": "sekiro-shadows-die-twice-goty-edition",
+      "title": "Sekiro: Shadows Die Twice - GOTY Edition",
+      "category": "Action",
+      "rating": 4,
+      "description": "Game of the Year - The Game Awards 2019 Best Action Game of 2019 - IGN Carve your own clever path to vengeance in the award winning adventure from developer FromSoftware, creators of Bloodborne and the Dark Souls series. Take Revenge. Restore Your Honor. Kill Ingeniously.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg?t=1762888662",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg?t=1762888662",
+      "executable": "",
+      "translations": [
+        {
+          "id": "sekiro-shadows-die-twice-goty-edition-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Sekiro: Shadows Die Twice - GOTY Edition.",
+          "releaseDate": "2026-04-18",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "51.4 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Sekiro_Shadows_Die_Twice/ar/v1/games_Sekiro_Shadows_Die_Twice_ar_v1_Sekiro.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "لعبة العام 2019. اشقّ طريقك للانتقام بذكاء في مغامرة FromSoftware صانعي Bloodborne وسلسلة Dark Souls. خذ بثأرك. استعد شرفك. اقتل بإبداع.",
+      "releaseYear": 2019
+    },
+    {
+      "id": "subliminal",
+      "title": "Subliminal",
+      "category": "Horror",
+      "rating": 4,
+      "description": "Subliminal is a psychological horror game inspired by the urban legend of The Backrooms. Bleeding edge lighting and rendering, handcrafted open-ended levels, light and perspective-based puzzles, nostalgic spaces, unfamiliar faces, and a rotting feeling that something is not quite right.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300840/4f7d3661f0520364fb585daf134db08b5311385d/header.jpg?t=1774940575",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300840/4f7d3661f0520364fb585daf134db08b5311385d/header.jpg?t=1774940575",
+      "executable": "",
+      "translations": [
+        {
+          "id": "subliminal-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Subliminal.",
+          "releaseDate": "2026-04-18",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "3.5 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Subliminal/ar/v1/Subliminal.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "رعب نفسي مستوحى من أسطورة «الغرف الخلفية». إضاءة متطورة، ومراحل مفتوحة مصنوعة يدويًا، وألغاز تعتمد على الضوء والمنظور، وأماكن مألوفة يسكنها شعور متعفّن بأن شيئًا ما ليس على ما يرام.",
+      "releaseYear": 2026
+    },
+    {
+      "id": "the-evil-within-2",
+      "title": "The Evil Within 2",
+      "category": "Horror",
+      "rating": 4,
+      "description": "Detective Sebastian Castellanos has lost everything, including his daughter, Lily. To save her, he must descend into the nightmarish world of STEM. Horrifying threats emerge from every corner, and he must rely on his wits to survive. For his one chance at redemption, the only way out is in.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601430/header.jpg?t=1750783701",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601430/header.jpg?t=1750783701",
+      "executable": "",
+      "translations": [
+        {
+          "id": "the-evil-within-2-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for The Evil Within 2.",
+          "releaseDate": "2026-04-18",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "4.0 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/The_Evil_Within_2/ar/v1/The Evil Within 2.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "فقد المحقق سيباستيان كاستيلانوس كل شيء، بما في ذلك ابنته ليلي. لإنقاذها عليه النزول إلى عالم STEM الكابوسي حيث يتربص الرعب في كل زاوية. فرصته الوحيدة للخلاص: المخرج الوحيد هو الدخول.",
+      "releaseYear": 2017
+    },
+    {
+      "id": "firewatch",
+      "title": "Firewatch",
+      "category": "Adventure",
+      "rating": 4,
+      "description": "Firewatch is a single-player first-person mystery set in the Wyoming wilderness, where your only emotional lifeline is the person on the other end of a handheld radio.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383870/41a7d0ff4c2dab4ed69c53c9a29c931e6f62948d/header.jpg?t=1755789801",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383870/41a7d0ff4c2dab4ed69c53c9a29c931e6f62948d/header.jpg?t=1755789801",
+      "executable": "",
+      "translations": [
+        {
+          "id": "firewatch-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Firewatch.",
+          "releaseDate": "2026-04-19",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "315.4 MB",
+          "author": "E3rab Team",
+          "downloadParts": [
+            {
+              "id": "part-1",
+              "name": "Part 1",
+              "assetKey": "games/Firewatch/ar/v1/firewatchpart1.zip",
+              "archiveFormat": "zip"
+            },
+            {
+              "id": "part-2",
+              "name": "Part 2",
+              "assetKey": "games/Firewatch/ar/v1/firewatchpart2.zip",
+              "archiveFormat": "zip"
+            }
+          ]
+        }
+      ],
+      "descriptionAr": "لغز من منظور الشخص الأول في برّية وايومنغ عام 1989، حيث صلتك العاطفية الوحيدة بالعالم هي الشخص على الطرف الآخر من جهاز اللاسلكي.",
+      "releaseYear": 2016
+    },
+    {
+      "id": "mouthwashing",
+      "title": "Mouthwashing",
+      "category": "Horror",
+      "rating": 4,
+      "description": "The five crew members of the Tulpar are stranded in the empty reaches of space, shrouded in perpetual sunset. God is not watching.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475490/header.jpg?t=1771578656",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475490/header.jpg?t=1771578656",
+      "executable": "",
+      "translations": [
+        {
+          "id": "mouthwashing-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Mouthwashing.",
+          "releaseDate": "2026-04-18",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "177.9 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Mouthwashing/ar/v1/Mouthwashing1.2.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "أفراد طاقم سفينة Tulpar الخمسة عالقون في فراغ الفضاء تحت غروب لا ينتهي. ولا أحد يراقب.",
+      "releaseYear": 2024
+    },
+    {
+      "id": "mouse-p-i-for-hire",
+      "title": "MOUSE: P.I. For Hire",
+      "category": "Action",
+      "rating": 4,
+      "description": "Join private investigator Jack Pepper on a guns blazing, jazz-fueled adventure in MOUSE: P.I. For Hire. MOUSE combines the charm of hand-drawn rubber hose animation inspired by the classic cartoons of the 1930’s with the adrenaline and action of an explosive first person shooter.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2416450/298ff2fc3f6a700d022b8d3ec58047f2b426be03/header.jpg?t=1776466362",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2416450/298ff2fc3f6a700d022b8d3ec58047f2b426be03/header.jpg?t=1776466362",
+      "executable": "",
+      "translations": [
+        {
+          "id": "mouse-p-i-for-hire-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for MOUSE: P.I. For Hire.",
+          "releaseDate": "2026-04-18",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "1.4 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/MOUSE_P_I_For_Hire/ar/v1/MOUSE_Data.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "رافق المحقق الخاص جاك بيبر في مغامرة مشتعلة بالرصاص وموسيقى الجاز. تصويب من منظور الشخص الأول بأسلوب كرتون الثلاثينيات المرسوم يدويًا.",
+      "releaseYear": 2026
+    },
+    {
+      "id": "bioshock-infinite",
+      "title": "BioShock Infinite",
+      "category": "Action",
+      "rating": 4,
+      "description": "Indebted to the wrong people, with his life on the line, veteran of the U.S. Cavalry and now hired gun, Booker DeWitt has only one opportunity to wipe his slate clean. He must rescue Elizabeth, a mysterious girl imprisoned since childhood and locked up in the flying city of Columbia.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8870/header.jpg?t=1728673518",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8870/header.jpg?t=1728673518",
+      "executable": "",
+      "translations": [
+        {
+          "id": "bioshock-infinite-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for BioShock Infinite.",
+          "releaseDate": "2026-04-18",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "0.5 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/BioShock_Infinite/ar/v1/XGame.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "مدينًا للأشخاص الخطأ وحياته على المحك، لدى بوكر ديويت فرصة واحدة لمحو ماضيه: إنقاذ إليزابيث، الفتاة الغامضة المسجونة منذ طفولتها في مدينة كولومبيا الطائرة.",
+      "releaseYear": 2013
+    },
+    {
+      "id": "hollow-knight-silksong",
+      "title": "Hollow Knight: Silksong",
+      "category": "Platformer",
+      "rating": 4,
+      "description": "Discover a vast, haunted kingdom in Hollow Knight: Silksong! Explore, fight and survive as you ascend to the peak of a land ruled by silk and song.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/7983574d464e6559ac7e24275727f73a8bcca1f3/header.jpg?t=1776125736",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/7983574d464e6559ac7e24275727f73a8bcca1f3/header.jpg?t=1776125736",
+      "executable": "",
+      "translations": [
+        {
+          "id": "hollow-knight-silksong-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Hollow Knight: Silksong.",
+          "releaseDate": "2026-04-19",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "17.9 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Hollow_Knight_Silksong/ar/v1/Hollow Knight Silksong_Data.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "اكتشف مملكة مسكونة شاسعة في Hollow Knight: Silksong! استكشف وقاتل وانجُ وأنت تتسلق نحو قمة أرض يحكمها الحرير والغناء.",
+      "releaseYear": 2025
+    },
+    {
+      "id": "the-last-of-us-part-ii-remastered",
+      "title": "The Last of Us Part II Remastered",
+      "category": "Action",
+      "rating": 4,
+      "description": "Experience the winner of over 300 Game of the Year awards, now on PC. Discover Ellie and Abby’s story with graphical enhancements, gameplay modes like the roguelike survival experience No Return, and more.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg?t=1750959180",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg?t=1750959180",
+      "executable": "",
+      "translations": [
+        {
+          "id": "the-last-of-us-part-ii-remastered-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for The Last of Us Part II Remastered.",
+          "releaseDate": "2026-04-18",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "63.4 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/The_Last_of_Us_Part_II/ar/v1/The Last of Us II-2.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "الفائزة بأكثر من 300 جائزة لعبة العام، الآن على الحاسب. عِش قصة إيلي وآبي بتحسينات رسومية وأنماط لعب جديدة مثل تجربة النجاة «لا عودة».",
+      "releaseYear": 2025
+    },
+    {
+      "id": "fallout-4",
+      "title": "Fallout 4",
+      "category": "RPG",
+      "rating": 4,
+      "description": "From Bethesda Game Studios, the award-winning creators of Starfield and The Elder Scrolls V: Skyrim, comes Fallout 4. A landmark in open-world RPG design and winner of over 200 ‘Best Of’ honors, including the DICE and BAFTA Game of the Year.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/header.jpg?t=1764687456",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/header.jpg?t=1764687456",
+      "executable": "",
+      "translations": [
+        {
+          "id": "fallout-4-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Fallout 4.",
+          "releaseDate": "2026-04-18",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "3.7 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/fallout_4/ar/v1/strings.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "من Bethesda صانعي Starfield وSkyrim. علامة فارقة في تصميم ألعاب تقمّص الأدوار مفتوحة العالم، وحائزة على أكثر من 200 جائزة بينها لعبة العام من DICE وBAFTA.",
+      "releaseYear": 2015
+    },
+    {
+      "id": "dollmare",
+      "title": "Dollmare",
+      "category": "Horror",
+      "rating": 4,
+      "description": "You've accepted a shady job offer at a doll factory. Inspect dolls for defects and anomalies. Follow strange protocols. Don't get fired and stay alive.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2793710/header.jpg?t=1752748859",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2793710/header.jpg?t=1752748859",
+      "executable": "",
+      "translations": [
+        {
+          "id": "dollmare-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Dollmare.",
+          "releaseDate": "2026-04-19",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "1.3 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Dollmare/ar/v1/ToyFactory.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "قبلتَ عرض عمل مريبًا في مصنع دمى. افحص الدمى بحثًا عن العيوب والشذوذ، واتبع البروتوكولات الغريبة. لا تُطرد… وابقَ حيًا.",
+      "releaseYear": 2024
+    },
+    {
+      "id": "enotria-the-last-song",
+      "title": "Enotria: The Last Song",
+      "category": "RPG",
+      "rating": 4,
+      "description": "Enotria: The Last Song is a soulslike set in a beautiful sun-lit world inspired by Italian folklore where the brightest sun casts the darkest shadow. Wear unique role-altering masks, face formidable foes and alter reality with the power of Ardore to unravel the secrets of Enotria.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2102450/header.jpg?t=1730220222",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2102450/header.jpg?t=1730220222",
+      "executable": "",
+      "translations": [
+        {
+          "id": "enotria-the-last-song-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Enotria: The Last Song.",
+          "releaseDate": "2026-04-19",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "1.0 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Enotria_The_Last_Song/ar/v1/Enotria.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "سولز-لايك في عالم مشمس خلّاب مستوحى من الفلكلور الإيطالي، حيث أسطع شمس تلقي أحلك ظل. ارتدِ أقنعة تغيّر دورك، وواجه خصومًا أشدّاء، وغيّر الواقع بقوة «الأردوري».",
+      "releaseYear": 2024
+    },
+    {
+      "id": "fobia-st-dinfna-hotel",
+      "title": "Fobia - St. Dinfna Hotel",
+      "category": "Horror",
+      "rating": 4,
+      "description": "Explore a decadent hotel across different timelines and uncover the dark history of a fanatical cult and your role in their plans.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1298140/header.jpg?t=1725487910",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1298140/header.jpg?t=1725487910",
+      "executable": "",
+      "translations": [
+        {
+          "id": "fobia-st-dinfna-hotel-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Fobia - St. Dinfna Hotel.",
+          "releaseDate": "2026-04-19",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "87.5 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Fobia_St_Dinfna_Hotel/ar/v1/Fobia.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "يتصادم الماضي والحاضر والمستقبل في هذا الرعب: استكشف فندقًا متهالكًا عبر خطوط زمنية مختلفة، واكشف التاريخ المظلم لطائفة متعصبة ودورك في مخططاتها.",
+      "releaseYear": 2022
+    },
+    {
+      "id": "palworld",
+      "title": "Palworld",
+      "category": "Adventure",
+      "rating": 4,
+      "description": "Fight, farm, build and work alongside mysterious creatures called \"Pals\" in this completely new multiplayer, open world survival and crafting game!",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/058bd87dc17a7179e07c446aa64d0574ca43ab9d/header.jpg?t=1773936597",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/058bd87dc17a7179e07c446aa64d0574ca43ab9d/header.jpg?t=1773936597",
+      "executable": "",
+      "translations": [
+        {
+          "id": "palworld-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Palworld.",
+          "releaseDate": "2026-04-19",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "9.7 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Palworld/ar/v1/Pal.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "قاتل وازرع وابنِ واعمل جنبًا إلى جنب مع مخلوقات غامضة تُدعى «Pals» في لعبة نجاة وصناعة جماعية بعالم مفتوح كليًا.",
+      "releaseYear": 2026
+    },
+    {
+      "id": "retrace-the-light",
+      "title": "Retrace the Light",
+      "category": "Platformer",
+      "rating": 4,
+      "description": "Dive into the immersive world of Retrace the Light, a captivating 2.5D action-adventure game centered around the \"Spatial Retracing\" feature. Assume the role of an Enforcer working for a super AI in a futuristic world, exploring the depths of human consciousness and healing their emotional wounds.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2179370/16888ec529f3682fbfad4d6e1c846bdbfe033d67/header.jpg?t=1770892675",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2179370/16888ec529f3682fbfad4d6e1c846bdbfe033d67/header.jpg?t=1770892675",
+      "executable": "",
+      "translations": [
+        {
+          "id": "retrace-the-light-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Retrace the Light.",
+          "releaseDate": "2026-04-19",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "3.2 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/RetraceTheLight/ar/v1/RetraceTheLight.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "مغامرة أكشن آسرة بأسلوب 2.5D تدور حول خاصية «التتبّع المكاني». تقمّص دور منفّذ يعمل لصالح ذكاء اصطناعي خارق، واستكشف أعماق الوعي البشري لتداوي جراحه.",
+      "releaseYear": 2025
+    },
+    {
+      "id": "star-wars-outlaws",
+      "title": "Star Wars Outlaws",
+      "category": "Action",
+      "rating": 4,
+      "description": "Experience the first-ever open world Star Wars™ game and explore distinct locations across the galaxy, both iconic and new. Risk it all as scoundrel Kay Vess, seeking freedom and the means to start a new life.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2842040/header.jpg?t=1773407100",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2842040/header.jpg?t=1773407100",
+      "executable": "",
+      "translations": [
+        {
+          "id": "star-wars-outlaws-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Star Wars Outlaws.",
+          "releaseDate": "2026-04-19",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "9.9 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Star_wars_outlaws/ar/v1/starwars.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "أول لعبة Star Wars بعالم مفتوح على الإطلاق. استكشف مواقع أيقونية وجديدة عبر المجرّة، وخاطر بكل شيء بصفتك المحتالة كاي فيس الساعية إلى الحرية وبداية جديدة.",
+      "releaseYear": 2024
+    },
+    {
+      "id": "still-wakes-the-deep",
+      "title": "Still Wakes the Deep",
+      "category": "Horror",
+      "rating": 4,
+      "description": "1975. Disaster strikes the Beira D oil rig off the coast of Scotland. Navigate the collapsing rig to save your crew from an otherworldly horror on the edge of all logic and reality in this 3x BAFTA Games Award-winning narrative horror experience.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622910/4922a49a07bf4f8eb23c33571e723d69de5dc5fb/header.jpg?t=1776368925",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622910/4922a49a07bf4f8eb23c33571e723d69de5dc5fb/header.jpg?t=1776368925",
+      "executable": "",
+      "translations": [
+        {
+          "id": "still-wakes-the-deep-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Still Wakes the Deep.",
+          "releaseDate": "2026-04-19",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "6.5 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Still_Wakes_the_Deep/ar/v1/Habitat.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "1975. تضرب كارثة منصة النفط Beira D قبالة ساحل اسكتلندا. انجُ عبر المنصة المنهارة وأنقذ طاقمك من رعب من عالم آخر في تجربة سردية حائزة على ثلاث جوائز BAFTA.",
+      "releaseYear": 2024
+    },
+    {
+      "id": "supernatural",
+      "title": "Supernatural",
+      "category": "Horror",
+      "rating": 4,
+      "description": "Detective Wyatt confronts a chilling mystery as he investigates a housemaid's disappearance. Unearth sinister secrets as you navigate through a haunted house, where every shadow hides a lurking terror.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2093010/header.jpg?t=1733831221",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2093010/header.jpg?t=1733831221",
+      "executable": "",
+      "translations": [
+        {
+          "id": "supernatural-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Supernatural.",
+          "releaseDate": "2026-04-19",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "4.9 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Supernatural/ar/v1/Supernatural.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "يواجه المحقق وايت لغزًا مقشعرًا أثناء تحقيقه في اختفاء خادمة. اكشف الأسرار الشريرة داخل منزل مسكون يختبئ الرعب في كل ظلّ من ظلاله.",
+      "releaseYear": 2024
+    },
+    {
+      "id": "avowed",
+      "title": "Avowed",
+      "category": "RPG",
+      "rating": 4,
+      "description": "Avowed is a first-person fantasy RPG set in the world of Eora, where your choices carve a path through war, intrigue, and ancient mysteries. Navigate a land in turmoil, forge powerful alliances or deadly rivalries, and wield magic and steel to shape the fate of the Living Lands—and your own destiny.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2457220/header.jpg?t=1771352530",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2457220/header.jpg?t=1771352530",
+      "executable": "",
+      "translations": [
+        {
+          "id": "avowed-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Avowed.",
+          "releaseDate": "2026-04-19",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "3.9 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Avowed/ar/v1/Alabama.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "تقمّص أدوار خيالي من منظور الشخص الأول في عالم Eora، حيث تنحت خياراتك طريقًا عبر الحروب والدسائس والأسرار القديمة. اعقد تحالفات أو عداوات، وامزج السحر بالفولاذ لتقرر مصير الأراضي الحية.",
+      "releaseYear": 2025
+    },
+    {
+      "id": "chorus-of-carcosa",
+      "title": "Chorus of Carcosa",
+      "category": "Horror",
+      "rating": 4,
+      "description": "Chorus of Carcosa is a first-person psychological horror game about an anxious sculptor who is trapped in a dark and ever-changing building. Stay silent, survive its twisted labyrinths and escape the monsters. Just don’t lose your way in the shadows or within your own mind.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2987750/header.jpg?t=1743606513",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2987750/header.jpg?t=1743606513",
+      "executable": "",
+      "translations": [
+        {
+          "id": "chorus-of-carcosa-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Chorus of Carcosa.",
+          "releaseDate": "2026-04-19",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "1.2 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/ChorusOfCarcosa/ar/v1/ChorusOfCarcosa.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "رعب نفسي من منظور الشخص الأول عن نحّات قلِق محاصر في مبنى مظلم متغيّر باستمرار. الزم الصمت، وانجُ من متاهاته، واهرب من الوحوش… ولا تضِع في الظلال أو داخل عقلك.",
+      "releaseYear": 2025
+    },
+    {
+      "id": "high-on-life",
+      "title": "High On Life",
+      "category": "Action",
+      "rating": 4,
+      "description": "HIGH ON KNIFE DLC OUT NOW!! - Humanity is being threatened by an alien cartel who wants to use them as drugs. It’s up to you to rescue and partner with charismatic, talking guns, take down Garmantuous and his gang, and save the world!",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1583230/header.jpg?t=1752869049",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1583230/header.jpg?t=1752869049",
+      "executable": "",
+      "translations": [
+        {
+          "id": "high-on-life-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for High On Life.",
+          "releaseDate": "2026-04-19",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "11.4 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/High_on_Life/ar/v1/oregon.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "البشرية مهددة من كارتل فضائي يريد استخدامها كمخدرات. عليك إنقاذ أسلحة ناطقة ذات شخصية، والتعاون معها، والإطاحة بغارمانتوس وعصابته لإنقاذ العالم!",
+      "releaseYear": 2022
+    },
+    {
+      "id": "lies-of-p",
+      "title": "Lies of P",
+      "category": "Action",
+      "rating": 4,
+      "description": "Lies of P is a thrilling soulslike that takes the story of Pinocchio, turns it on its head, and sets it against the darkly elegant backdrop of the Belle Epoque era.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627720/header.jpg?t=1764565054",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627720/header.jpg?t=1764565054",
+      "executable": "",
+      "translations": [
+        {
+          "id": "lies-of-p-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Lies of P.",
+          "releaseDate": "2026-04-19",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "3.0 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/LiesofP/ar/v1/LiesofP.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "سولز-لايك مثير يأخذ قصة بينوكيو ويقلبها رأسًا على عقب على خلفية أنيقة ومظلمة من عصر الـ Belle Époque.",
+      "releaseYear": 2023
+    },
+    {
+      "id": "life-is-strange-double-exposure",
+      "title": "Life is Strange: Double Exposure",
+      "category": "Adventure",
+      "rating": 4,
+      "description": "When Max Caulfield finds her friend Safi dead in the snow, she tears open the way to a parallel timeline. Here, Safi is still alive - and still in danger! With her new power to Shift between two timelines – can Max solve and prevent the same murder?",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874000/header.jpg?t=1773408764",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874000/header.jpg?t=1773408764",
+      "executable": "",
+      "translations": [
+        {
+          "id": "life-is-strange-double-exposure-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Life is Strange: Double Exposure.",
+          "releaseDate": "2026-04-19",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "7.5 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Life_is_Strange_Double_Exposure/ar/v1/Chronos.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "حين تجد ماكس صديقتها صافي ميتة في الثلج، تشقّ طريقًا إلى خط زمني موازٍ حيث صافي حية… وما زالت في خطر. بقدرتها الجديدة على التنقل بين الزمنين، هل تستطيع ماكس حلّ الجريمة ومنعها؟",
+      "categoryLocked": true,
+      "releaseYear": 2024
+    },
+    {
+      "id": "mad-max",
+      "title": "Mad Max",
+      "category": "Action",
+      "rating": 4,
+      "description": "Play as Mad Max, a reluctant hero and survivor who wants nothing more than to leave the madness behind and find solace.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234140/header.jpg?t=1773442092",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234140/header.jpg?t=1773442092",
+      "executable": "",
+      "translations": [
+        {
+          "id": "mad-max-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Mad Max.",
+          "releaseDate": "2026-04-19",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "1.3 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/mad_max/ar/v1/dropzone.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "تقمّص ماد ماكس، البطل المتردد والناجي الذي لا يريد سوى أن يترك الجنون خلفه ويجد السكينة في أرض قاحلة لا ترحم.",
+      "releaseYear": 2015
+    },
+    {
+      "id": "puppet-house",
+      "title": "Puppet House",
+      "category": "Horror",
+      "rating": 4,
+      "description": "Puppet House is a puzzle-adventure horror with escape room elements. A freak ritual creates a killer puppet, murdering anyone who enters the ventriloquist’s mansion. Detective Rick, seeking missing locals, will soon face his greatest horror.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1707710/header.jpg?t=1769612970",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1707710/header.jpg?t=1769612970",
+      "executable": "",
+      "translations": [
+        {
+          "id": "puppet-house-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Puppet House.",
+          "releaseDate": "2026-04-19",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "0.4 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Puppet_House/ar/v1/PuppetHouse.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "رعب مغامرة وألغاز بعناصر غرف الهروب. طقس شاذ يوقظ دمية قاتلة تفتك بكل من يدخل قصر مؤدّي التكلّم البطني. المحقق ريك، الباحث عن مفقودين، على وشك مواجهة أعظم رعب في حياته.",
+      "releaseYear": 2024
+    },
+    {
+      "id": "sleeping-dogs-definitive-edition",
+      "title": "Sleeping Dogs: Definitive Edition",
+      "category": "Action",
+      "rating": 4,
+      "description": "The Definitive Edition of the critically acclaimed, award winning open-world action adventure, reworked, rebuilt and re-mastered for the new generation. With all previously available DLC included and a wealth of tech and visual improvements, Hong Kong has never felt so alive.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307690/header.jpg?t=1766070052",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307690/header.jpg?t=1766070052",
+      "executable": "",
+      "translations": [
+        {
+          "id": "sleeping-dogs-definitive-edition-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Sleeping Dogs: Definitive Edition.",
+          "releaseDate": "2026-04-19",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "161.1 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Sleeping_Dogs_Definitive_Edition/ar/v1/Sleeping Dogs Definitive Edition.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "النسخة النهائية من مغامرة الأكشن مفتوحة العالم الحائزة على الجوائز، أُعيد بناؤها وتحسينها للجيل الجديد مع كل الإضافات. هونغ كونغ لم تكن يومًا أكثر حياة.",
+      "releaseYear": 2014
+    },
+    {
+      "id": "south-of-midnight",
+      "title": "South of Midnight",
+      "category": "Action",
+      "rating": 4,
+      "description": "South of Midnight is a new action-adventure from Compulsion Games. Explore the mythos and confront mysterious creatures of the Deep South in this modern folktale while learning to weave an ancient power to surmount obstacles and unravel your family’s hidden past.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1934570/56f64e713504dd2558077d038eb7470c8689a559/header.jpg?t=1774984440",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1934570/56f64e713504dd2558077d038eb7470c8689a559/header.jpg?t=1774984440",
+      "executable": "",
+      "translations": [
+        {
+          "id": "south-of-midnight-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for South of Midnight.",
+          "releaseDate": "2026-04-19",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "8.5 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/SouthofMidnight/ar/v1/Midnight.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "مغامرة أكشن من Compulsion Games. استكشف أساطير الجنوب الأمريكي العميق وواجه مخلوقاته الغامضة في حكاية شعبية حديثة، وتعلّم نسج قوة قديمة لتكشف ماضي عائلتك المخفي.",
+      "releaseYear": 2025
+    },
+    {
+      "id": "the-beast-inside",
+      "title": "The Beast Inside",
+      "category": "Horror",
+      "rating": 4,
+      "description": "The Beast Inside is a unique, gripping twist on thriller and survival horror. Immerse in the story of long-buried secrets, personal tragedies, and madness. Play as two protagonists bounded by dark heritage. Combat the enemies, solve riddles and experience real terror in the 3D-scanned environment.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/792300/header.jpg?t=1669227434",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/792300/header.jpg?t=1669227434",
+      "executable": "",
+      "translations": [
+        {
+          "id": "the-beast-inside-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for The Beast Inside.",
+          "releaseDate": "2026-04-19",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "18.2 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/TheBeastInside/ar/v1/TheBeastInside.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "مزيج فريد من الإثارة ورعب البقاء. قصة أسرار مدفونة ومآسٍ شخصية وجنون، تلعبها بشخصيتين يربطهما إرث مظلم. قاتل الأعداء وحلّ الألغاز في بيئة ممسوحة ثلاثية الأبعاد.",
+      "releaseYear": 2019
+    },
+    {
+      "id": "the-callisto-protocol",
+      "title": "The Callisto Protocol",
+      "category": "Horror",
+      "rating": 4,
+      "description": "Survive to escape the horrors of Callisto and uncover the dark secrets of Jupiter’s dead moon.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1544020/header.jpg?t=1760331403",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1544020/header.jpg?t=1760331403",
+      "executable": "",
+      "translations": [
+        {
+          "id": "the-callisto-protocol-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for The Callisto Protocol.",
+          "releaseDate": "2026-04-19",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "7.0 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/TheCallistoProtocol/ar/v1/TheCallistoProtocol.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "انجُ لتهرب من أهوال كاليستو واكشف الأسرار المظلمة لقمر المشتري الميت.",
+      "releaseYear": 2022
+    },
+    {
+      "id": "watch-dogs",
+      "title": "Watch_Dogs?",
+      "category": "Action",
+      "rating": 4,
+      "description": "In today's hyper-connected world, Chicago operates under ctOS, the most advanced computer network in America.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/243470/header.jpg?t=1739177057",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/243470/header.jpg?t=1739177057",
+      "executable": "",
+      "translations": [
+        {
+          "id": "watch-dogs-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Watch_Dogs?.",
+          "releaseDate": "2026-04-19",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "19.8 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Watch_Dogs/ar/v1/data_win64.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "في عالم اليوم فائق الاتصال، تعمل شيكاغو تحت نظام ctOS، أكثر شبكات الحاسب تقدمًا في أمريكا. اخترق المدينة كلها لتحقق العدالة على طريقتك.",
+      "categoryLocked": true,
+      "releaseYear": 2014
+    },
+    {
+      "id": "white-day-2-the-flower-that-tells-lies",
+      "title": "White Day 2: The Flower That Tells Lies - Complete Edition",
+      "category": "Horror",
+      "rating": 4,
+      "description": "Return to Yeondu High School and uncover the dark truth that remained hidden in this direct sequel to the Korean horror classic. Investigate bizarre phenomena, evade bloodthirsty killers, and unravel a twisting narrative spread across three unnerving episodes.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2078040/header.jpg?t=1741788038",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2078040/header.jpg?t=1741788038",
+      "executable": "",
+      "translations": [
+        {
+          "id": "white-day-2-the-flower-that-tells-lies-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for White Day 2: The Flower That Tells Lies - Complete Edition.",
+          "releaseDate": "2026-04-19",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "5.0 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/White_Day_2_The_Flower_That_Tells_Lies/ar/v1/WD.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "عُد إلى ثانوية يوندو واكشف الحقيقة المظلمة في التتمة المباشرة لكلاسيكية الرعب الكورية. حقّق في ظواهر غريبة، وتفادَ قتلة متعطشين للدماء، عبر ثلاث حلقات مقلقة.",
+      "categoryLocked": true,
+      "releaseYear": 2023
+    },
+    {
+      "id": "obey-the-voice",
+      "title": "Obey the Voice?",
+      "category": "Horror",
+      "rating": 4,
+      "description": "You are here to listen to The Voice. Do what he says. But don't listen to other voices... Obey the Voice is a pressure-driven psychological horror experience built on constant threats and rule-based challenges, where survival depends on attention, timing, and decision-making under extreme stress.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3919190/70a1fc53e5c8574c5756d1a8b44fc4af49a81f28/header.jpg?t=1770069035",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3919190/70a1fc53e5c8574c5756d1a8b44fc4af49a81f28/header.jpg?t=1770069035",
+      "executable": "",
+      "translations": [
+        {
+          "id": "obey-the-voice-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Obey the Voice?.",
+          "releaseDate": "2026-04-20",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "1.8 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/ObeytheVoice/ar/v1/ObeytheVoice.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "أنت هنا لتسمع «الصوت». افعل ما يقوله، ولا تصغِ للأصوات الأخرى… رعب نفسي قائم على الضغط والتهديد المستمر، حيث نجاتك تعتمد على الانتباه والتوقيت واتخاذ القرار تحت ضغط شديد.",
+      "releaseYear": 2026
+    },
+    {
+      "id": "poppy-playtime",
+      "title": "Poppy Playtime",
+      "category": "Horror",
+      "rating": 4,
+      "description": "You must stay alive in this horror/puzzle adventure. Try to survive the vengeful toys waiting for you in the abandoned toy factory. Use your GrabPack to hack electrical circuits or nab anything from afar. Explore the mysterious facility... and don't get caught.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1721470/00ca34a0c863a8d86c6582904249216d6aa263bd/header.jpg?t=1770858202",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1721470/00ca34a0c863a8d86c6582904249216d6aa263bd/header.jpg?t=1770858202",
+      "executable": "",
+      "translations": [
+        {
+          "id": "poppy-playtime-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Poppy Playtime.",
+          "releaseDate": "2026-04-20",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "78.3 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Poppy_Playtime/ar/v1/Poppy Playtime Collection.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "ابقَ حيًا في مغامرة الرعب والألغاز هذه. انجُ من الدمى الحاقدة التي تنتظرك في مصنع الألعاب المهجور، واستخدم حقيبة GrabPack لاختراق الدوائر والتقاط الأشياء عن بُعد… ولا تدعها تمسك بك.",
+      "releaseYear": 2021
+    },
+    {
+      "id": "red-dead-redemption-2",
+      "title": "Red Dead Redemption 2",
+      "category": "Action",
+      "rating": 4,
+      "description": "Arthur Morgan and the Van der Linde Gang are outlaws on the run. With federal agents and bounty hunters massing on their heels, the gang must rob, steal, and fight their way across the rugged heartland in order to survive.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
+      "executable": "",
+      "translations": [
+        {
+          "id": "red-dead-redemption-2-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Red Dead Redemption 2.",
+          "releaseDate": "2026-04-20",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "3.2 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Red_Dead_Redemption_2/ar/v1/RTEA v1.3.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "آرثر مورغان وعصابة فان دير ليندي خارجون عن القانون وملاحَقون. مع تجمّع العملاء الفيدراليين وصائدي الجوائز خلفهم، على العصابة أن تسرق وتقاتل عبر قلب أمريكا الوعر لتنجو.",
+      "releaseYear": 2019
+    },
+    {
+      "id": "alan-wake",
+      "title": "Alan Wake",
+      "category": "Horror",
+      "rating": 4.5,
+      "description": "A Dark Presence stalks the small town of Bright Falls, pushing Alan Wake to the brink of sanity in his fight to unravel the mystery and save his love.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108710/9c1728f937c2a7e632b447b02e442f6a5d88515c/header.jpg?t=1769717716",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108710/9c1728f937c2a7e632b447b02e442f6a5d88515c/header.jpg?t=1769717716",
+      "executable": "",
+      "translations": [
+        {
+          "id": "alan-wake-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Alan Wake.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "56.3 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Alan_Wake/ar/v1/data.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "حضور مظلم يطارد بلدة برايت فولز الصغيرة، ويدفع آلان ويك إلى حافة الجنون في صراعه لحلّ اللغز وإنقاذ حبيبته.",
+      "releaseYear": 2012
+    },
+    {
+      "id": "bioshock-remastered",
+      "title": "BioShock™ Remastered",
+      "category": "Action",
+      "rating": 4.1,
+      "description": "BioShock is a shooter unlike any other, loaded with unique weapons and tactics. Complete with an arsenal of revolvers, shotguns, and grenade launchers, players will be forced to genetically modify their DNA to become an even deadlier weapon.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409710/header.jpg?t=1740443728",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409710/header.jpg?t=1740443728",
+      "executable": "",
+      "translations": [
+        {
+          "id": "bioshock-remastered-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for BioShock™ Remastered.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "70.1 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/BioShock_Remastered/ar/v1/ContentBaked.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "لعبة تصويب لا تشبه غيرها، مليئة بأسلحة وتكتيكات فريدة. ومع ترسانة من المسدسات والبنادق وقاذفات القنابل، ستُجبر على تعديل حمضك النووي جينيًا لتصبح سلاحًا أشد فتكًا.",
+      "categoryLocked": true,
+      "releaseYear": 2016
+    },
+    {
+      "id": "choo-choo-charles",
+      "title": "Choo-Choo Charles",
+      "category": "Horror",
+      "rating": 4.5,
+      "description": "Navigate an open-world island in an old train, upgrade it over time, and use it to fight an evil spider train named Charles.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1766740/header.jpg?t=1776483802",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1766740/header.jpg?t=1776483802",
+      "executable": "",
+      "translations": [
+        {
+          "id": "choo-choo-charles-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Choo-Choo Charles.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "1.0 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Choo_Choo_Charles/ar/v1/Obscure.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "جُب جزيرة مفتوحة العالم على متن قطار قديم، طوّره مع الوقت، واستخدمه لمحاربة قطار عنكبوتي شرير يُدعى تشارلز.",
+      "releaseYear": 2022
+    },
+    {
+      "id": "dark-souls-ii-scholar-of-the-first-sin",
+      "title": "DARK SOULS™ II: Scholar of the First Sin",
+      "category": "Action",
+      "rating": 4.2,
+      "description": "DARK SOULS™ II: Scholar of the First Sin brings the franchise’s renowned obscurity &amp; gripping gameplay to a new level. Join the dark journey and experience overwhelming enemy encounters, diabolical hazards, and unrelenting challenge.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335300/header.jpg?t=1760721873",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335300/header.jpg?t=1760721873",
+      "executable": "",
+      "translations": [
+        {
+          "id": "dark-souls-ii-scholar-of-the-first-sin-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for DARK SOULS™ II: Scholar of the First Sin.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "11.4 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/DARK_SOULS_II_Scholar_of_the_First_Sin/ar/v1/darksoul2.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "الغموض الشهير للسلسلة وأسلوب لعبها الآسر في مستوى جديد. انضم إلى الرحلة المظلمة وعِش مواجهات أعداء طاغية، ومخاطر شيطانية، وتحديًا لا يلين.",
+      "releaseYear": 2015
+    },
+    {
+      "id": "dark-souls-iii",
+      "title": "DARK SOULS™ III",
+      "category": "Action",
+      "rating": 4.7,
+      "description": "Dark Souls continues to push the boundaries with the latest, ambitious chapter in the critically-acclaimed and genre-defining series. Prepare yourself and Embrace The Darkness!",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg?t=1748630784",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg?t=1748630784",
+      "executable": "",
+      "translations": [
+        {
+          "id": "dark-souls-iii-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for DARK SOULS™ III.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "16.8 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/DARK_SOULS_III/ar/v1/darksouls3.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "تواصل Dark Souls تخطّي الحدود في أحدث وأطمح فصل من السلسلة التي عرّفت نوعها بأكمله. جهّز نفسك واحتضن الظلام!",
+      "releaseYear": 2016
+    },
+    {
+      "id": "dark-souls-remastered",
+      "title": "DARK SOULS™: REMASTERED",
+      "category": "Action",
+      "rating": 4.6,
+      "description": "Then, there was fire. Re-experience the critically acclaimed, genre-defining game that started it all. Beautifully remastered, return to Lordran in stunning high-definition detail running at 60fps.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/header.jpg?t=1764975651",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/header.jpg?t=1764975651",
+      "executable": "",
+      "translations": [
+        {
+          "id": "dark-souls-remastered-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for DARK SOULS™: REMASTERED.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "9.3 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/DARK_SOULS_REMASTERED/ar/v1/Dark Souls Remastered ETRD.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "ثم، كانت النار. عِش من جديد اللعبة التي بدأت كل شيء وعرّفت نوعها، بنسخة محسّنة بديعة تعيدك إلى لوردران بدقة عالية وبمعدل 60 إطارًا في الثانية.",
+      "releaseYear": 2018
+    },
+    {
+      "id": "devil-may-cry-4-special-edition",
+      "title": "Devil May Cry 4 Special Edition",
+      "category": "Action",
+      "rating": 4.4,
+      "description": "The smash-hit stylish action game DMC4 is back and better than ever, boasting new playable characters and game modes!",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329050/header.jpg?t=1768869714",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329050/header.jpg?t=1768869714",
+      "executable": "",
+      "translations": [
+        {
+          "id": "devil-may-cry-4-special-edition-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Devil May Cry 4 Special Edition.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "153.6 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Devil_May_Cry_4_Special_Edition/ar/v1/DMC4SE.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "لعبة الأكشن الأنيقة الناجحة DMC4 تعود أفضل من أي وقت مضى، بشخصيات جديدة قابلة للعب وأنماط لعب إضافية!",
+      "releaseYear": 2015
+    },
+    {
+      "id": "dredge",
+      "title": "DREDGE",
+      "category": "Adventure",
+      "rating": 4.8,
+      "description": "DREDGE is a single-player fishing adventure with a sinister undercurrent. Sell your catch, upgrade your boat, and dredge the depths for long-buried secrets. Explore a mysterious archipelago and discover why some things are best left forgotten.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/header.jpg?t=1766050211",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/header.jpg?t=1766050211",
+      "executable": "",
+      "translations": [
+        {
+          "id": "dredge-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for DREDGE.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "22.3 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/DREDGE/ar/v1/DREDGE_Data.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "مغامرة صيد للاعب واحد بتيار خفي مشؤوم. بِع صيدك، وطوّر قاربك، وانبش الأعماق بحثًا عن أسرار مدفونة منذ زمن. استكشف أرخبيلًا غامضًا واكتشف لماذا بعض الأشياء يُفضَّل أن تبقى منسية.",
+      "releaseYear": 2023
+    },
+    {
+      "id": "fears-to-fathom-woodbury-getaway",
+      "title": "Fears to Fathom - Woodbury Getaway",
+      "category": "Horror",
+      "rating": 4.3,
+      "description": "Sydney Harper, a 23-year-old working at a consulting firm plans a weekend getaway to a Woodbury rental with her college friends. Little did she know what was about to unfold during their stay.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2961530/header.jpg?t=1761626768",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2961530/header.jpg?t=1761626768",
+      "executable": "",
+      "translations": [
+        {
+          "id": "fears-to-fathom-woodbury-getaway-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Fears to Fathom - Woodbury Getaway.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "535.8 MB",
+          "author": "E3rab Team",
+          "downloadParts": [
+            {
+              "id": "part-1",
+              "name": "Part 1",
+              "assetKey": "games/Fears_to_Fathom _Woodbury_Getaway/ar/v1/fer1.zip",
+              "archiveFormat": "zip"
+            },
+            {
+              "id": "part-2",
+              "name": "Part 2",
+              "assetKey": "games/Fears_to_Fathom _Woodbury_Getaway/ar/v1/fer2.zip",
+              "archiveFormat": "zip"
+            }
+          ]
+        }
+      ],
+      "descriptionAr": "تخطط سيدني هاربر، البالغة 23 عامًا، لعطلة نهاية أسبوع في منزل مستأجر بوودبري مع أصدقاء الجامعة. لم تكن تدرك ما الذي ينتظرهم خلال إقامتهم.",
+      "releaseYear": 2024
+    },
+    {
+      "id": "fears-to-fathom-carson-house",
+      "title": "Fears to Fathom - Carson House",
+      "category": "Horror",
+      "rating": 4.6,
+      "description": "Noah Baker, an 18 year old highschooler experiences unsettling occurrences while house-sitting for a media personality, little did he know what was about to unfold that night.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2120900/header.jpg?t=1761626861",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2120900/header.jpg?t=1761626861",
+      "executable": "",
+      "translations": [
+        {
+          "id": "fears-to-fathom-carson-house-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Fears to Fathom - Carson House.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "56.9 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Fears_to_Fathom_Carson_House/ar/v1/Fears To Fathom - Carson House_Data.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "يعيش نوا بيكر، طالب الثانوية ذو الثمانية عشر عامًا، أحداثًا مقلقة أثناء حراسته منزل شخصية إعلامية. لم يكن يدرك ما الذي سيحدث تلك الليلة.",
+      "releaseYear": 2023
+    },
+    {
+      "id": "fears-to-fathom-ironbark-lookout",
+      "title": "Fears to Fathom - Ironbark Lookout",
+      "category": "Horror",
+      "rating": 4.6,
+      "description": "Jack Nelson, a 24-year-old fire lookout, transferred to a new outpost. As he settled into his new home, he couldn't shake the feeling that something was off, little did he know what was transpiring down in Ironbark State Park.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506160/header.jpg?t=1761626826",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506160/header.jpg?t=1761626826",
+      "executable": "",
+      "translations": [
+        {
+          "id": "fears-to-fathom-ironbark-lookout-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Fears to Fathom - Ironbark Lookout.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "134.5 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Fears_to_Fathom_Ironbark_Lookout/ar/v1/Fears to Fathom - Ironbark Lookout_Data.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "يُنقل جاك نيلسون، مراقب الحرائق البالغ 24 عامًا، إلى برج مراقبة جديد. ومع استقراره في بيته الجديد، لم يفارقه شعور بأن شيئًا ما ليس على ما يرام في متنزه آيرونبارك.",
+      "releaseYear": 2023
+    },
+    {
+      "id": "fears-to-fathom-norwood-hitchhike",
+      "title": "Fears to Fathom - Norwood Hitchhike",
+      "category": "Horror",
+      "rating": 4.4,
+      "description": "Holly Gardner, a 19 year old on an interstate drive experiences unusual happenings that leads to an unplanned stay at a motel, little did she know what was transpiring down in Norwood Valley.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763050/header.jpg?t=1761626891",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763050/header.jpg?t=1761626891",
+      "executable": "",
+      "translations": [
+        {
+          "id": "fears-to-fathom-norwood-hitchhike-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Fears to Fathom - Norwood Hitchhike.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "148.1 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Fears_To_Fathom_Norwood_Hitchhike/ar/v1/Fears To Fathom - Norwood Hitchhike_Data.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "في رحلة طويلة بين الولايات، تمرّ هولي غاردنر ذات التسعة عشر عامًا بأحداث غريبة تجبرها على المبيت في نُزل. لم تكن تدرك ما الذي يجري في وادي نوروود.",
+      "releaseYear": 2022
+    },
+    {
+      "id": "five-nights-at-freddys-secret-of-the-mimic",
+      "title": "Five Nights at Freddy's: Secret of the Mimic",
+      "category": "Horror",
+      "rating": 4,
+      "description": "Enter the abandoned workshop of Murray’s Costume Manor and unravel the mystery left behind by the reclusive inventor. In Five Nights at Freddy’s: Secret of the Mimic, you’ll step into a world where every dark corner holds a secret and every flicker of light hints at an ever-present threat.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215390/527bbebaa5764de58528487b3f2142c44a58b267/header.jpg?t=1763143943",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215390/527bbebaa5764de58528487b3f2142c44a58b267/header.jpg?t=1763143943",
+      "executable": "",
+      "translations": [
+        {
+          "id": "five-nights-at-freddys-secret-of-the-mimic-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Five Nights at Freddy's: Secret of the Mimic.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "1.2 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Five_Nights_at_Freddy’s_Secret_of_the_Mimic/ar/v1/FNAF_SOTM.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "ادخل الورشة المهجورة في قصر أزياء موراي واكشف اللغز الذي تركه المخترع المنعزل. في كل زاوية مظلمة سرّ، وفي كل ومضة ضوء تهديد حاضر دائمًا.",
+      "releaseYear": 2025
+    },
+    {
+      "id": "hades",
+      "title": "Hades",
+      "category": "Action",
+      "rating": 4.9,
+      "description": "Defy the god of the dead as you hack and slash out of the Underworld in this rogue-like dungeon crawler from the creators of Bastion, Transistor, and Pyre.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg?t=1758127023",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg?t=1758127023",
+      "executable": "",
+      "translations": [
+        {
+          "id": "hades-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Hades.",
+          "releaseDate": "2026-04-20",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "245.2 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Hades/ar/v1/Content.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "تحدَّ إله الموتى وأنت تشقّ طريقك خارج العالم السفلي في لعبة الروغ-لايك هذه من صانعي Bastion وTransistor وPyre.",
+      "releaseYear": 2020
+    },
+    {
+      "id": "hades-ii",
+      "title": "Hades II",
+      "category": "Action",
+      "rating": 4.8,
+      "description": "Battle beyond the Underworld using dark sorcery to take on the Titan of Time in this bewitching sequel to the award-winning rogue-like dungeon crawler.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/91ac334a2c137d08968ccc0bc474a02579602100/header.jpg?t=1765831644",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/91ac334a2c137d08968ccc0bc474a02579602100/header.jpg?t=1765831644",
+      "executable": "",
+      "translations": [
+        {
+          "id": "hades-ii-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Hades II.",
+          "releaseDate": "2026-04-20",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "3.6 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Hades_II/ar/v1/Content.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "قاتل خارج حدود العالم السفلي مستخدمًا السحر المظلم لمواجهة جبّار الزمن، في هذه التتمة الساحرة للعبة الروغ-لايك الحائزة على الجوائز.",
+      "releaseYear": 2025
+    },
+    {
+      "id": "hello-neighbor-2",
+      "title": "Hello Neighbor 2",
+      "category": "Horror",
+      "rating": 4,
+      "description": "Welcome back to the eerie town of Raven Brooks! You play as Quentin, a journalist investigating the bizarre events of the original Hello Neighbor game, uncovering a larger mystery. Sneak into your creepy Neighbors’ houses to dig up the truth.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321680/header.jpg?t=1763986797",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321680/header.jpg?t=1763986797",
+      "executable": "",
+      "translations": [
+        {
+          "id": "hello-neighbor-2-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Hello Neighbor 2.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "1.4 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Hello_Neighbor_2/ar/v1/HelloNeighbor2.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "مرحبًا بعودتك إلى بلدة رافين بروكس المريبة! تلعب بدور كوينتن، الصحفي الذي يحقق في أحداث اللعبة الأولى ليكشف لغزًا أكبر. تسلّل إلى منازل الجيران المخيفين لتنبش الحقيقة.",
+      "releaseYear": 2022
+    },
+    {
+      "id": "indika",
+      "title": "INDIKA",
+      "category": "Horror",
+      "rating": 4.5,
+      "description": "Play a third-person, story-driven game set in alternative Russia at the turn of the XIX century where religious visions clash with harsh reality. INDIKA tells the story of a young nun who sets off on a journey of self-discovery with the most unusual companion by her side, the devil himself.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1373960/header.jpg?t=1765218123",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1373960/header.jpg?t=1765218123",
+      "executable": "",
+      "translations": [
+        {
+          "id": "indika-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for INDIKA.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "2.5 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Indika/ar/v1/Indika.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "لعبة سردية من منظور الشخص الثالث في روسيا بديلة مطلع القرن التاسع عشر، حيث تتصادم الرؤى الدينية مع الواقع القاسي. قصة راهبة شابة تنطلق في رحلة اكتشاف الذات برفقة أغرب رفيق: الشيطان نفسه.",
+      "releaseYear": 2024
+    },
+    {
+      "id": "luto",
+      "title": "Luto",
+      "category": "Horror",
+      "rating": 4.3,
+      "description": "Luto is a psychological horror experience where you take on the role of someone unable to leave their home. Every attempt to escape will lead you deeper into the unknown, where nothing is as it seems and everything will test your senses.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1729740/def13c797b5c98624d24fb0b75d2e57ea0fdbf70/header.jpg?t=1772534744",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1729740/def13c797b5c98624d24fb0b75d2e57ea0fdbf70/header.jpg?t=1772534744",
+      "executable": "",
+      "translations": [
+        {
+          "id": "luto-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Luto.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "3.5 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Luto/ar/v1/Luto.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "تجربة رعب نفسي تتقمّص فيها دور شخص عاجز عن مغادرة منزله. كل محاولة هروب تقودك أعمق إلى المجهول، حيث لا شيء كما يبدو وكل شيء يختبر حواسك.",
+      "releaseYear": 2025
+    },
+    {
+      "id": "metal-gear-solid-delta-snake-eater",
+      "title": "METAL GEAR SOLID Δ: SNAKE EATER",
+      "category": "Action",
+      "rating": 4,
+      "description": "A remake of the 2004 game METAL GEAR SOLID 3: SNAKE EATER, with the same gripping story and engrossing world, now with all new graphics and 3D audio that enhance the jungle atmosphere. Get ready for the ultimate survival stealth action experience.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417610/05c97cbcd0cfc27c8ed6c7fc6d81e0995aa2a7d4/header.jpg?t=1762249119",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417610/05c97cbcd0cfc27c8ed6c7fc6d81e0995aa2a7d4/header.jpg?t=1762249119",
+      "executable": "",
+      "translations": [
+        {
+          "id": "metal-gear-solid-delta-snake-eater-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for METAL GEAR SOLID ?: SNAKE EATER.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "95.5 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/METAL_GEAR_SOLID_Δ_SNAKE_EATER/ar/v1/MGSDelta.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "إعادة صنع للعبة METAL GEAR SOLID 3 الصادرة عام 2004، بالقصة الآسرة ذاتها وعالمها الغامر، مع رسوم جديدة كليًا وصوت ثلاثي الأبعاد يعمّق أجواء الغابة. استعد لتجربة التسلل والنجاة المطلقة.",
+      "releaseYear": 2025
+    },
+    {
+      "id": "middle-earth-shadow-of-mordor",
+      "title": "Middle-earth™: Shadow of Mordor™",
+      "category": "Action",
+      "rating": 4.6,
+      "description": "Fight through Mordor and uncover the truth of the spirit that compels you, discover the origins of the Rings of Power, build your legend and ultimately confront the evil of Sauron in this new chronicle of Middle-earth.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241930/header.jpg?t=1757538323",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241930/header.jpg?t=1757538323",
+      "executable": "",
+      "translations": [
+        {
+          "id": "middle-earth-shadow-of-mordor-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Middle-earth™: Shadow of Mordor™.",
+          "releaseDate": "2026-04-20",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "1.5 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Middle_earth_Shadow_of_Mordor/ar/v1/ShadowOfMordor.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "شقّ طريقك عبر موردور واكشف حقيقة الروح التي تسكنك، واكتشف أصل خواتم القوة، وابنِ أسطورتك لتواجه شرّ ساورون في فصل جديد من حكايات الأرض الوسطى.",
+      "releaseYear": 2014
+    },
+    {
+      "id": "phoenix-wright-ace-attorney-trilogy",
+      "title": "Phoenix Wright: Ace Attorney Trilogy",
+      "category": "Adventure",
+      "rating": 4.9,
+      "description": "Become Phoenix Wright and experience the thrill of battle as you fight to save your innocent clients in a court of law. Play all 14 episodes, spanning the first three games, in one gorgeous collection.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787480/header.jpg?t=1768866317",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787480/header.jpg?t=1768866317",
+      "executable": "",
+      "translations": [
+        {
+          "id": "phoenix-wright-ace-attorney-trilogy-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Phoenix Wright: Ace Attorney Trilogy.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "51.5 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Phoenix_Wright_Ace_Attorney_Trilogy/ar/v1/PWAAT_Data.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "كن المحامي فينيكس رايت وعِش إثارة المعركة القانونية وأنت تدافع عن موكّليك الأبرياء في قاعة المحكمة. الحلقات الأربع عشرة من الألعاب الثلاث الأولى في مجموعة واحدة رائعة.",
+      "releaseYear": 2019
+    },
+    {
+      "id": "rv-there-yet",
+      "title": "RV There Yet?",
+      "category": "Adventure",
+      "rating": 4.5,
+      "description": "A co-op adventure about driving your Recreational Vehicle home.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/cae24b4ed7f4531be51f0d63f785b7d253f92dc3/header.jpg?t=1776697232",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/cae24b4ed7f4531be51f0d63f785b7d253f92dc3/header.jpg?t=1776697232",
+      "executable": "",
+      "translations": [
+        {
+          "id": "rv-there-yet-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for RV There Yet?.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "9.1 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/RVThereYet/ar/v1/Ride.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "مغامرة تعاونية عن قيادة عربتكم الترفيهية في رحلة العودة إلى المنزل… وكل ما قد يحدث في الطريق.",
+      "releaseYear": 2025
+    },
+    {
+      "id": "samson",
+      "title": "Samson",
+      "category": "Action",
+      "rating": 2.7,
+      "description": "Samson returns to Tyndalston, a city that shaped him hard, where every fight is close and every escape is earned. He owes dangerous people more than he can pay, and they’re using his sister to force his hand. The clock is ticking. The only way out is through anyone who stands in his way.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634520/139e0f223c1c0cb4f2e763c41ae7fe6e4e3e59a2/header.jpg?t=1775653125",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634520/139e0f223c1c0cb4f2e763c41ae7fe6e4e3e59a2/header.jpg?t=1775653125",
+      "executable": "",
+      "translations": [
+        {
+          "id": "samson-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Samson.",
+          "releaseDate": "2026-04-20",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "5.1 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/samson/ar/v1/CJ.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "يعود سامسون إلى تيندالستون، المدينة التي صقلته بقسوة، حيث كل قتال قريب وكل هروب يُنتزع انتزاعًا. يدين لأشخاص خطرين بأكثر مما يستطيع دفعه، وهم يستخدمون أخته لإجباره. المخرج الوحيد يمرّ عبر كل من يقف في طريقه.",
+      "releaseYear": 2026
+    },
+    {
+      "id": "shinobi-art-of-vengeance",
+      "title": "SHINOBI: Art of Vengeance",
+      "category": "Platformer",
+      "rating": 4.1,
+      "description": "The iconic SHINOBI returns in an all-new 2D action platformer with a unique hand-drawn look created by the team behind the hit brawler Streets of Rage 4.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2361770/e9ea86d314aee27fd903e95c626598c09244d468/header.jpg?t=1775188972",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2361770/e9ea86d314aee27fd903e95c626598c09244d468/header.jpg?t=1775188972",
+      "executable": "",
+      "translations": [
+        {
+          "id": "shinobi-art-of-vengeance-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for SHINOBI: Art of Vengeance.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "1.9 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/SHINOBIArtofVengeance/ar/v1/SHINOBI_AOV_Data.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "يعود الشينوبي الأيقوني في لعبة منصات أكشن ثنائية الأبعاد جديدة كليًا، برسوم يدوية فريدة من الفريق الذي صنع Streets of Rage 4.",
+      "releaseYear": 2025
+    },
+    {
+      "id": "the-evil-within",
+      "title": "The Evil Within",
+      "category": "Horror",
+      "rating": 4.3,
+      "description": "Developed by Shinji Mikami -- creator of the seminal Resident Evil series -- and the talented team at Tango Gameworks, The Evil Within embodies the meaning of pure survival horror. Highly-crafted environments, horrifying anxiety, and an intricate story are combined to create an immersive world that will bring you to the height of tension.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/header.jpg?t=1750783780",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/header.jpg?t=1750783780",
+      "executable": "",
+      "translations": [
+        {
+          "id": "the-evil-within-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for The Evil Within.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "91.1 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/The_Evil_Within/ar/v1/base.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "من شينجي ميكامي مبتكر سلسلة Resident Evil وفريق Tango Gameworks: رعب البقاء في أنقى صوره. بيئات متقنة، وقلق مرعب، وقصة معقّدة تصنع عالمًا غامرًا يوصلك إلى ذروة التوتر.",
+      "releaseYear": 2014
+    },
+    {
+      "id": "uncharted-legacy-of-thieves-collection",
+      "title": "UNCHARTED™: Legacy of Thieves Collection",
+      "category": "Action",
+      "rating": 4.5,
+      "description": "Play as Nathan Drake and Chloe Frazer in their own standalone adventures as they confront their pasts and forge their own legacies. This game includes the critically acclaimed single-player stories from both UNCHARTED 4: A Thief’s End and UNCHARTED: The Lost Legacy.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/header.jpg?t=1751913411",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/header.jpg?t=1751913411",
+      "executable": "",
+      "translations": [
+        {
+          "id": "uncharted-legacy-of-thieves-collection-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for UNCHARTED™: Legacy of Thieves Collection.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "66.9 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/UNCHARTED_Legacy_of_Thieves_Collection/ar/v1/Uncharted4_data.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "العب بشخصيتي ناثان دريك وكلوي فرايزر في مغامرتيهما المستقلتين وهما يواجهان ماضيهما ويصنعان إرثهما. تتضمن قصتي UNCHARTED 4: A Thief's End وUNCHARTED: The Lost Legacy.",
+      "releaseYear": 2022
+    },
+    {
+      "id": "the-baby-in-yellow",
+      "title": "The Baby In Yellow",
+      "category": "Horror",
+      "rating": 4.8,
+      "description": "You've got a new babysitting job, and things are taking a turn for the weird. Feed him, read him a bedtime story, and try not to fall into his dreams. How long can you stay in control?",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291340/header.jpg?t=1763401770",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291340/header.jpg?t=1763401770",
+      "executable": "",
+      "translations": [
+        {
+          "id": "the-baby-in-yellow-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for The Baby In Yellow.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "9.5 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/BabyInYellow/ar/v1/BabyInYellow.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "حصلت على وظيفة جليسة أطفال جديدة، والأمور تتخذ منحى غريبًا. أطعمه، واقرأ له قصة قبل النوم، وحاول ألا تسقط في أحلامه. إلى متى تستطيع البقاء مسيطرًا؟",
+      "releaseYear": 2023
+    },
+    {
+      "id": "red-dead-redemption",
+      "title": "Red Dead Redemption",
+      "category": "Action",
+      "rating": 4.6,
+      "description": "Experience the story of former outlaw John Marston as he tracks down the last remaining members of the notorious Van der Linde Gang in the PC debut of the critically acclaimed predecessor to Red Dead Redemption 2.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg?t=1741118459",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg?t=1741118459",
+      "executable": "",
+      "translations": [
+        {
+          "id": "red-dead-redemption-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Red Dead Redemption.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "46.1 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Red_Dead_Redemption/ar/v1/game.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "عِش قصة الخارج عن القانون السابق جون مارستون وهو يتعقب آخر أعضاء عصابة فان دير ليندي سيئة السمعة، في الظهور الأول على الحاسب للسابقة الشهيرة لـ Red Dead Redemption 2.",
+      "releaseYear": 2024
+    },
+    {
+      "id": "resident-evil-0",
+      "title": "Resident Evil 0",
+      "category": "Horror",
+      "rating": 4,
+      "description": "Before the mansion, before the destruction of Raccoon City, there was Resident Evil 0. Now remastered with improved visuals and sounds, as well as the all-new Wesker Mode, there's never been a better time to experience the origins of the Resident Evil story.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/339340/header.jpg?t=1768953920",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/339340/header.jpg?t=1768953920",
+      "executable": "",
+      "translations": [
+        {
+          "id": "resident-evil-0-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Resident Evil 0.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "25.6 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Resident_Evil_0_HD_Remaster/ar/v1/Resident Evil 0 HD Remaster PC-74-1-1774719275.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "قبل القصر، وقبل دمار مدينة راكون، كانت Resident Evil 0. الآن بنسخة محسّنة الرسوم والصوت مع وضع ويسكر الجديد كليًا، لم يكن هناك وقت أفضل لتعيش أصل قصة Resident Evil.",
+      "releaseYear": 2016
+    },
+    {
+      "id": "resident-evil",
+      "title": "Resident Evil",
+      "category": "Horror",
+      "rating": 4.6,
+      "description": "The game that defined the survival-horror genre is back! Check out the remastered HD version of Resident Evil.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304240/header.jpg?t=1768956401",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304240/header.jpg?t=1768956401",
+      "executable": "",
+      "translations": [
+        {
+          "id": "resident-evil-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Resident Evil.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "49.9 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Resident_Evil_HD_Remaster/ar/v1/nativePC.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "اللعبة التي عرّفت نوع رعب البقاء تعود! استمتع بالنسخة المحسّنة عالية الدقة من Resident Evil الأصلية.",
+      "releaseYear": 2015
+    },
+    {
+      "id": "resident-evil-revelations-2",
+      "title": "Resident Evil Revelations 2",
+      "category": "Horror",
+      "rating": 3.9,
+      "description": "RE Revelations 2 continues the series acclaimed essential survival horror experience, while uncovering startling truths.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287290/header.jpg?t=1769125412",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287290/header.jpg?t=1769125412",
+      "executable": "",
+      "translations": [
+        {
+          "id": "resident-evil-revelations-2-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Resident Evil Revelations 2.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "1.2 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Resident_Evil_Revelations_2/ar/v1/res2rev.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "تواصل Revelations 2 تجربة رعب البقاء الأساسية التي اشتهرت بها السلسلة، وتكشف حقائق صادمة.",
+      "releaseYear": 2015
+    },
+    {
+      "id": "the-midnight-walk",
+      "title": "The Midnight Walk",
+      "category": "Horror",
+      "rating": 4.7,
+      "description": "Follow The Midnight Walk in a dark adventure from the minds behind Lost in Random. Befriend a lost lantern creature and light your way through a world of wonder and terror. Outsmart monsters and marvel at details in a landscape handcrafted with real clay and animated in a stop motion style.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2863640/header.jpg?t=1768295345",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2863640/header.jpg?t=1768295345",
+      "executable": "",
+      "translations": [
+        {
+          "id": "the-midnight-walk-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for The Midnight Walk.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "1.1 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/The_Midnight_Walk/ar/v1/TheMidnightWalk.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "مغامرة مظلمة من صانعي Lost in Random. صادق مخلوق فانوس ضائعًا وأنِر طريقك عبر عالم من العجائب والرعب. تفوّق على الوحوش وتأمّل التفاصيل في عالم مصنوع يدويًا من الصلصال بأسلوب الإيقاف الحركي.",
+      "releaseYear": 2025
+    },
+    {
+      "id": "the-wolf-among-us",
+      "title": "The Wolf Among Us",
+      "category": "Adventure",
+      "rating": 4.9,
+      "description": "From the makers of the 2012 Game of the Year: The Walking Dead, comes a thriller based on the award-winning Fables comic books. As Bigby Wolf you will discover that a brutal, bloody murder is just a taste of things to come in a game series where your every decision can have enormous consequences.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250320/header.jpg?t=1734104991",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250320/header.jpg?t=1734104991",
+      "executable": "TWAU Final Version Arabization Horizons.exe",
+      "translations": [
+        {
+          "id": "the-wolf-among-us-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for The Wolf Among Us.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "62.4 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/The_Wolf_Among_Us/ar/v1/TWAU Final Version Arabization Horizons.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "من صانعي The Walking Dead لعبة العام 2012: إثارة مبنية على قصص Fables المصورة. بصفتك بيغبي وولف، ستكتشف أن جريمة قتل وحشية ليست سوى بداية، في سلسلة كل قرار فيها له عواقب هائلة.",
+      "releaseYear": 2013
+    },
+    {
+      "id": "crimson-desert",
+      "title": "Crimson Desert",
+      "category": "Action",
+      "rating": 4.2,
+      "description": "Crimson Desert is an open-world action-adventure set on the continent of Pywel. Join Kliff on his journey to rebuild the Greymane faction and to save the land from a looming threat. From vast wilderness and cities to ruins and the mysterious Abyss, forge your path through battles and discovery.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/abd7dbdeaede8b6c9a6d40bf116ff2b883f2dd45/header.jpg?t=1776322395",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/abd7dbdeaede8b6c9a6d40bf116ff2b883f2dd45/header.jpg?t=1776322395",
+      "executable": "CrimsonAR.exe",
+      "translations": [
+        {
+          "id": "crimson-desert-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Crimson Desert.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "21.4 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Crimson_Desert/ar/v1/CrimsonAR.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "مغامرة أكشن بعالم مفتوح في قارة بايويل. رافق كليف في رحلته لإعادة بناء فصيل غريمين وإنقاذ الأرض من تهديد وشيك، عبر البراري والمدن والأطلال والهاوية الغامضة.",
+      "releaseYear": 2026
+    },
+    {
+      "id": "the-walking-dead-season-two",
+      "title": "The Walking Dead: Season Two",
+      "category": "Adventure",
+      "rating": 4.8,
+      "description": "The Walking Dead: Season Two continues the story of Clementine, a young girl orphaned by the undead apocalypse. Left to fend for herself, she has been forced to learn how to survive in a world gone mad.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261030/header.jpg?t=1729703055",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261030/header.jpg?t=1729703055",
+      "executable": "Arabization Horizons - TWD S2 Full episodes.exe",
+      "translations": [
+        {
+          "id": "the-walking-dead-season-two-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for The Walking Dead: Season Two.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "168.9 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/The_Walking_Dead_Season_Two/ar/v1/Arabization Horizons - TWD S2 Full episodes.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "يواصل الموسم الثاني قصة كليمنتاين، الفتاة الصغيرة التي يتّمها وباء الموتى الأحياء. تُركت لتدبّر أمرها بنفسها، وأُجبرت على تعلّم البقاء في عالم جُنّ جنونه.",
+      "releaseYear": 2013
+    },
+    {
+      "id": "the-walking-dead-the-telltale-definitive-series",
+      "title": "The Walking Dead: The Telltale Definitive Series",
+      "category": "Adventure",
+      "rating": 4.8,
+      "description": "The Walking Dead: The Telltale Definitive Series contains all 4 Seasons, 400 Days, and The Walking Dead: Michonne, which includes over 50 hours of gameplay across 23 unique episodes.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449690/header.jpg?t=1760651835",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449690/header.jpg?t=1760651835",
+      "executable": "TWD-DF-S1 Arabization_Horizons.exe",
+      "translations": [
+        {
+          "id": "the-walking-dead-the-telltale-definitive-series-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for The Walking Dead: The Telltale Definitive Series.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "53.2 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/The_Walking_Dead_The_Telltale_Definitive_Series/ar/v1/TWD-DF-S1 Arabization_Horizons.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "تضم النسخة النهائية المواسم الأربعة كاملة، و400 Days، وThe Walking Dead: Michonne — أكثر من 50 ساعة لعب عبر 23 حلقة فريدة.",
+      "releaseYear": 2020
+    },
+    {
+      "id": "the-walking-dead",
+      "title": "The Walking Dead",
+      "category": "Adventure",
+      "rating": 4.9,
+      "description": "A five-part adventure horror series set in the same universe as Robert Kirkman’s award-winning comic book series.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207610/header.jpg?t=1729702559",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207610/header.jpg?t=1729702559",
+      "executable": "TWD S1 Full Episodes - Arabic - Arabization Horizons.exe",
+      "translations": [
+        {
+          "id": "the-walking-dead-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for The Walking Dead.",
+          "releaseDate": "2026-04-21",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "45.3 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/The_Walking_dead/ar/v1/TWD S1 Full Episodes - Arabic - Arabization Horizons.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "سلسلة مغامرة ورعب من خمسة أجزاء تدور في عالم قصص روبرت كيركمان المصورة الحائزة على الجوائز. قراراتك تُشكّل القصة.",
+      "releaseYear": 2012
+    },
+    {
+      "id": "hitman-world-of-assassination",
+      "title": "HITMAN World of Assassination",
+      "category": "Action",
+      "rating": 4.5,
+      "description": "Enter the world of the ultimate assassin. HITMAN World of Assassination delivers the definitive stealth action experience, putting you in the shoes of Agent 47, a master assassin. Explore immersive locations, uncover hidden secrets, and eliminate targets with complete freedom of approach.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/header.jpg",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/header.jpg",
+      "executable": "",
+      "translations": [
+        {
+          "id": "hitman-world-of-assassination-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for HITMAN World of Assassination.",
+          "releaseDate": "2026-06-09",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "199.3 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/HITMAN_World_of_Assassination/ar/v1/HITMAN.World.of.Assassination.V.1.3.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "كن العميل 47 في تجربة الاغتيال المطلقة: مواقع ضخمة حول العالم، وأهداف عالية القيمة، وحرية كاملة في طريقة التنفيذ. HITMAN 1 و2 و3 في تجربة واحدة.",
+      "releaseYear": 2022
+    },
+    {
+      "id": "resident-evil-6",
+      "title": "Resident Evil 6",
+      "category": "Horror",
+      "rating": 4.5,
+      "description": "Blending action and survival horror, Resident Evil 6 sees Leon S. Kennedy, Chris Redfield, Ada Wong and newcomer Jake Muller face the highly virulent C-virus across North America, Eastern Europe and China.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221040/header.jpg",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221040/header.jpg",
+      "executable": "",
+      "translations": [
+        {
+          "id": "resident-evil-6-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Resident Evil 6.",
+          "releaseDate": "2026-06-09",
+          "changelog": [
+            "Latest Cloudflare package sync."
+          ],
+          "size": "7.9 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Resident_Evil_6/ar/v1/nativePC.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "الرعب يمتد إلى العالم كله: أربع قصص متشابكة مع ليون وكريس وجيك وآدا في مواجهة تهديد بيولوجي عالمي. أكشن ورعب بقاء بمقياس غير مسبوق.",
+      "categoryLocked": true,
+      "releaseYear": 2013
+    },
+    {
+      "id": "black-myth-wukong",
+      "title": "Black Myth: Wukong",
+      "category": "Action",
+      "rating": 4,
+      "description": "Black Myth: Wukong is an action RPG rooted in Chinese mythology. You shall set out as the Destined One to venture into the challenges and marvels ahead, to uncover the obscured truth beneath the veil of a glorious legend from the past.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/header.jpg",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/header.jpg",
+      "executable": "",
+      "translations": [
+        {
+          "id": "black-myth-wukong-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.21",
+          "type": "community",
+          "description": "Community Arabic translation package for Black Myth: Wukong.",
+          "releaseDate": "2026-09-23",
+          "changelog": [
+            "Published via admin panel."
+          ],
+          "size": "2.8 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Black_Myth_Wukong/ar/v1/b1.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "أكشن تقمّص أدوار متجذّر في الأساطير الصينية. انطلق بصفتك «المقدَّر» لتخوض التحديات والعجائب وتكشف الحقيقة المخفية خلف أسطورة مجيدة من الماضي.",
+      "releaseYear": 2024
+    },
+    {
+      "id": "silent-hill-townfall",
+      "title": "SILENT HILL: Townfall",
+      "category": "Horror",
+      "rating": 4,
+      "description": "Returning to an island town to ‘put things right’, Simon Ordell descends into a world of tense evasion, explosive confrontations, and mind-bending puzzles that slowly surface the truth of St. Amelia.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1636440/0ed1cb4bc30631f95b92f7f13bb06c15d49b4afa/header.jpg?t=1789974011",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1636440/0ed1cb4bc30631f95b92f7f13bb06c15d49b4afa/header.jpg?t=1789974011",
+      "executable": "",
+      "translations": [
+        {
+          "id": "silent-hill-townfall-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for SILENT HILL: Townfall.",
+          "releaseDate": "2026-09-23",
+          "changelog": [
+            "Published via admin app."
+          ],
+          "size": "124.8 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/SILENT_HILL_Townfall/ar/v1/Townfall.zip",
+          "archiveFormat": "zip",
+          "requiredRole": "1552358330825965692"
+        }
+      ],
+      "descriptionAr": "فصل جديد في عالم SILENT HILL: بلدة ساحلية اسكتلندية معزولة، وضباب لا يفارقها، ورعب نفسي مقلق في كل زاوية.",
+      "releaseYear": 2026
+    },
+    {
+      "id": "far-cry-4",
+      "title": "Far Cry® 4",
+      "category": "Action",
+      "rating": 4,
+      "description": "Hidden in the towering Himalayas lies Kyrat, a country steeped in tradition and violence. You are Ajay Ghale, caught up in a civil war to overthrow the oppressive regime of dictator Pagan Min.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/731cff7e53820cb83436f93bfa86e493f6a0af45/header.jpg?t=1785362767",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/731cff7e53820cb83436f93bfa86e493f6a0af45/header.jpg?t=1785362767",
+      "executable": "",
+      "translations": [
+        {
+          "id": "far-cry-4-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Far Cry® 4.",
+          "releaseDate": "2026-09-23",
+          "changelog": [
+            "Published via admin app."
+          ],
+          "size": "97.2 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Far_Cry_4/ar/v1/data_win32.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "في جبال الهيمالايا الشاهقة، تجد نفسك في قلب حرب أهلية للإطاحة بالطاغية باغان مين. عالم مفتوح شاسع مليء بالحياة البرية والخطر والفوضى.",
+      "releaseYear": 2014
+    },
+    {
+      "id": "far-cry-primal",
+      "title": "Far Cry Primal",
+      "category": "Action",
+      "rating": 4,
+      "description": "The award-winning Far Cry franchise returns with its innovative open world gameplay, bringing together massive beasts, breathtaking environments, and unpredictable savage encounters. Welcome to the Stone Age, a time of danger and adventure.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371660/header.jpg",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371660/header.jpg",
+      "executable": "",
+      "translations": [
+        {
+          "id": "far-cry-primal-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Far Cry Primal.",
+          "releaseDate": "2026-09-23",
+          "changelog": [
+            "Published via admin app."
+          ],
+          "size": "85.9 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Far_Cry_Primal/ar/v1/data_win32.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "تعود سلسلة Far Cry بعالمها المفتوح المبتكر إلى العصر الحجري: وحوش هائلة، وبيئات خلّابة، ومواجهات وحشية لا يمكن التنبؤ بها. مرحبًا بك في زمن الخطر والمغامرة.",
+      "categoryLocked": true,
+      "releaseYear": 2016
+    },
+    {
+      "id": "mark-of-the-ninja",
+      "title": "Mark of the Ninja",
+      "category": "Action",
+      "rating": 4,
+      "description": "In Mark of the Ninja, you'll know what it is to truly be a ninja. You must be silent, agile and clever to outwit your opponents in a world of gorgeous scenery and flowing animation.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214560/header.jpg",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214560/header.jpg",
+      "executable": "",
+      "translations": [
+        {
+          "id": "mark-of-the-ninja-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Mark of the Ninja.",
+          "releaseDate": "2026-09-24",
+          "changelog": [
+            "Published via admin app."
+          ],
+          "size": "1.7 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Mark_of_the_Ninja/ar/v1/data-pc.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "تسلّل ثنائي الأبعاد بأسلوب رسوم يدوية. الزم الظلال، واختر بين الرحمة والفتك، وتحرّك كالشبح عبر كل مستوى في واحدة من أفضل ألعاب التخفي على الإطلاق.",
+      "releaseYear": 2012
+    },
+    {
+      "id": "stray",
+      "title": "Stray",
+      "category": "Adventure",
+      "rating": 4,
+      "description": "Lost, alone and separated from family, a stray cat must untangle an ancient mystery to escape a long-forgotten cybercity and find their way home.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/header.jpg",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/header.jpg",
+      "executable": "",
+      "translations": [
+        {
+          "id": "stray-ar-v1",
+          "name": "Arabic Translation Pack",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Stray.",
+          "releaseDate": "2026-09-24",
+          "changelog": [
+            "Published via admin app."
+          ],
+          "size": "4.3 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/Stray/ar/v1/Hk_project.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "descriptionAr": "ضائع ووحيد وبعيد عن عائلته، على قطّ شارد أن يحلّ لغزًا قديمًا ليهرب من مدينة سيبرانية منسية ويجد طريقه إلى البيت.",
+      "releaseYear": 2022
+    },
+    {
+      "id": "mortal-shell-ii",
+      "title": "Mortal Shell II",
+      "category": "Action",
+      "rating": 4,
+      "description": "Mortal Shell II Arabic translation package.",
+      "descriptionAr": "تعريب عربي كامل للعبة Mortal Shell II، جاهز للتثبيت بضغطة واحدة من داخل التطبيق.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/0a4c23b70ced29fac344186ea564dae67c80cfd6/header.jpg?t=1788251111",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/0a4c23b70ced29fac344186ea564dae67c80cfd6/header.jpg?t=1788251111",
+      "executable": "",
+      "translations": [
+        {
+          "id": "mortal-shell-ii-ar-v1",
+          "name": "تعريب عربي",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for Mortal Shell II.",
+          "releaseDate": "2026-09-24",
+          "changelog": [
+            "Published via admin panel."
+          ],
+          "size": "1.8 MB",
+          "author": "E3rab Team",
+          "installMode": "extract",
+          "assetKey": "games/Mortal_Shell_II/ar/v1/MortalShell2.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "releaseYear": 2026
+    },
+    {
+      "id": "007-first-light",
+      "title": "007 First Light",
+      "category": "Action",
+      "rating": 4,
+      "description": "007 First Light Arabic translation package.",
+      "descriptionAr": "تعريب عربي كامل للعبة 007 First Light، جاهز للتثبيت بضغطة واحدة من داخل التطبيق.",
+      "bannerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/9f0d16a4d9a826d62cddf7f5ea25d10b4b2f45b9/header_alt_assets_3.jpg?t=1790084095",
+      "thumbnailImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/9f0d16a4d9a826d62cddf7f5ea25d10b4b2f45b9/header_alt_assets_3.jpg?t=1790084095",
+      "executable": "",
+      "translations": [
+        {
+          "id": "007-first-light-ar-v1",
+          "name": "تعريب عربي",
+          "version": "1.0.0",
+          "type": "community",
+          "description": "Community Arabic translation package for 007 First Light.",
+          "releaseDate": "2026-09-24",
+          "changelog": [
+            "Published via admin panel."
+          ],
+          "size": "25.4 MB",
+          "author": "E3rab Team",
+          "assetKey": "games/007_First_Light/ar/v1/Arabic Hesham 007 11 11 2026-06-15T22-16Z 61v8s3IG1.zip",
+          "archiveFormat": "zip"
+        }
+      ],
+      "releaseYear": 2026
+    }
+  ],
+  "contentVersion": "2026-09-25T04:06:53.181Z"
+}
